@@ -1,0 +1,2076 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="language" content="ja">
+
+<meta name="description" content="海外医薬品の個人輸入は【ライフパートナー】にお任せ下さい！バイアグラ・レビトラ・シアリスなどのED治療薬をはじめ、薄毛治療薬、避妊薬など幅広いジャンルの商品を取り揃えております。メーカー正規品・確実配送を保証しております！">
+<meta name="keywords" content="海外医薬品薬,個人輸入,通販">
+<title>【個人輸入の通販サイト】海外医薬品なら最安値のライフパートナー</title>
+<link rel="canonical" href="https://lifept.shop/">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152963284-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-152963284-2');
+</script>
+
+<!-- Hotjar Tracking Code for https://lifept.shop/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1910604,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+<link rel="stylesheet" rel="preload" type="text/css" href="/css/pc_201701.css?ver=20201013" as="style">
+<link rel="stylesheet" rel="preload" type="text/css" href="/css/font-awesome.css" as="style">
+<link rel="stylesheet" rel="preload" type="text/css" href="/css/lightbox.css" as="style">
+<link rel="stylesheet" rel="preload" type="text/css" href="/css/flexslider.css" as="style">
+
+<script src="/js/jquery-1.8.3.js"></script>
+<script src="/js/lightbox-2.6.min.js"></script>
+<script src="/js/index.js"></script>
+<script src="/js/jquery.flexslider-min.js"></script>
+
+<script>
+$(function(){
+	var url = location.href;
+	if(url.match(/action=ORDER_ERROR/)){
+		$(this).blur();
+		if($("#modalOverlay")[0]) return false;
+		$("body").append('<div id="modalOverlay"></div>');
+		$("#modalOverlay").fadeIn();
+		var st = $(document).scrollTop()+100+"px";
+		var w  = $(window).width();
+		var h  = $(window).height();
+		var cw = $("#modal_order_error").outerWidth();
+		var ch = $("#modal_order_error").outerHeight();
+		$("#modal_order_error").css("left",((w - cw) / 2) + "px").css("top",st);
+		$("#modal_order_error").fadeIn();
+		$("#modalOverlay, .modalClose").unbind().click(function(){
+			$("#modal_order_error, #modalOverlay").fadeOut(function(){
+				$('#modalOverlay').remove();
+			});
+		});
+	}
+});
+</script>
+
+</head>
+<body>
+<div id="wrap">
+		<noscript>
+		<div class="warning">
+			<p>※Javascriptが無効の状態です。</p>
+			Javascriptの設定が無効な場合、正しく機能しない・表示されないことがあります。<br>
+			当サイトをご利用の際は、Javascriptを有効にして下さい。<br>
+			Javascriptを有効にする方法は、お使いのブラウザのヘルプをご確認下さい。<br>
+		</div>
+	</noscript>
+
+	<header id="header">
+		<div id="headerLeft">
+			<h1>ライフパートナーではED治療薬で人気のバイアグラや、ジェネリック薬、通販でしか購入できない医薬品を最安値で取り揃えています。</h1>
+			<a href="/"><img src="/img/logo_new.png" alt="ライフパートナー"></a>
+		</div>
+		<div id="headerRight">
+			<div id="headerBox">
+				<form action="/login.php" method="GET">
+					<div class="cell1">メールアドレス<br><input type="text" name="login_id" value="" class="disabled"></div>
+					<div class="cell2">パスワード<br><input type="text" name="login_pass" value="" class="disabled"></div>
+					<div class="cell3"><input type="submit" value="ログイン"></div>
+				</form>
+				<div class="cell4">
+					<a href="/cart.php?action=VIEW_ONLY">
+						<span class="info1">0</span>
+						<span class="info2">&yen;0</span>
+						<span class="info3">カートを見る</span>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div id="headerSearch" class="searchArea">
+			<div class="text">商品名を正しく<br>入力して下さい</div>
+			<div class="search">
+				<form action="/result.php" method="GET">
+					<p class="input"><input type="text" name="keyword" value="" placeholder="商品名を入力"></p>
+					<p class="submit"><input type="submit" value="検 索"></p>
+				</form>
+			</div>
+		</div>
+
+		<nav id="topMenu" class="clear">
+			<ul id="dropDown">
+				<li><a href="/">ＴＯＰページ</a></li>
+				<li><a href="/shopping_guide.php">初めての方へ</a>
+					<ul>
+						<li><a href="/hajimete_1.php">海外医薬品とは？</a></li>
+						<li><a href="/hajimete_2.php">関税について</a></li>
+						<li><a href="/hajimete_3.php">処方せん不要</a></li>
+						<li><a href="/hajimete_4.php">海外医薬品のメリット</a></li>
+						<li><a href="/hajimete_5.php">配送について</a></li>
+					</ul>
+				</li>
+				<li><a href="/howto.php">買い物手順</a></li>
+				<li><a href="/about.php">お支払い方法</a></li>
+				<li><a href="/import.php">個人輸入とは？</a>
+					<ul>
+						<li><a href="/kojin_1.php">輸入禁止の薬物</a></li>
+						<li><a href="/kojin_2.php">薬事法とは</a></li>
+					</ul>
+				</li>
+				<li><a href="/generic.php">ジェネリックとは？</a>
+					<ul>
+						<li><a href="/generic_1.php">ジェネリックは安価</a></li>
+						<li><a href="/generic_2.php">ジェネリックは安全</a></li>
+						<li><a href="/generic_3.php">ジェネリックを活用</a></li>
+						<li><a href="/generic_4.php">インドは世界一</a></li>
+					</ul>
+				</li>
+				<li><a href="/contact.php">お問い合わせ</a></li>
+			</ul>
+		</nav>
+	</header>
+
+
+	<div id="contents" class="clear">
+		<div id="left">
+			
+			<!-- <img src="/img/left_service.gif" alt="満足度100%"> -->
+
+			
+			<div id="trackingBox">
+				<div class="title">配送番号検索</div>
+				<form action="https://trackings.post.japanpost.jp/services/srv/search/" method="GET">
+					<input type="text" name="requestNo1" value="" placeholder="例:RA123456789SG" class="disabled">
+					<input type="submit" value="追跡">
+					<input type="hidden" name="requestNo2"  value="">
+					<input type="hidden" name="requestNo3"  value="">
+					<input type="hidden" name="requestNo4"  value="">
+					<input type="hidden" name="requestNo5"  value="">
+					<input type="hidden" name="requestNo6"  value="">
+					<input type="hidden" name="requestNo7"  value="">
+					<input type="hidden" name="requestNo8"  value="">
+					<input type="hidden" name="requestNo9"  value="">
+					<input type="hidden" name="requestNo10" value="">
+					<input type="hidden" name="search.x"    value="60">
+					<input type="hidden" name="search.y"    value="30">
+					<input type="hidden" name="search"      value="追跡スタート">
+					<input type="hidden" name="startingUrlPatten="  value="">
+					<input type="hidden" name="locale"      value="ja">
+				</form>
+			</div>
+
+			
+			<div class="menuTitle">個人輸入医薬品</div>
+			<div id="searchMenu">
+				<a href="/search.php"><img src="/img/left_search.png" alt="医薬品の検索"></a>
+			</div>
+
+			<div class="menuTitle">カテゴリ検索</div>
+			<ul id="leftMenu">
+				<li class='parent'><a href='/list.php?xcategory=%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95'>ナイトライフ</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E5%AA%9A%E8%96%AC'>媚薬</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E8%96%84%E6%AF%9B%E4%BA%88%E9%98%B2'>薄毛予防</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E4%BD%93%E8%87%AD%E6%94%B9%E5%96%84'>体臭改善</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E7%BE%8E%E5%AE%B9%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2'>美容スキンケア</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E6%97%A5%E7%84%BC%E6%AD%A2%E3%82%81'>日焼止め</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88'>ダイエット</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E4%BA%8C%E6%97%A5%E9%85%94%E3%81%84%E5%AF%BE%E7%AD%96'>二日酔い対策</a></li>
+				<li class='parent'><a href='/list.php?xcategory=%E6%A4%9C%E6%9F%BB%E3%82%AD%E3%83%83%E3%83%88'>検査キット</a></li>
+				
+				<li class="parent"><a href="/list.php?category=%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%8F%E3%83%BC%E3%83%96">ヒマラヤハーブ</a></li>
+			</ul>
+
+			
+			<div id="telBox">
+				<div class="info1">電話注文<span>10:00～18:00</span></div>
+				<div class="info2">電話注文も承っております。</div>
+				<div class="info4">日本語サポートセンター</div>
+				<div class="info3"><img src="/img/tel_btn.png" alt="電話注文受付け"></div>
+				<div class="info5"><span class="colorRed size14 bold">注文専用の電話番号です。</span><br>お荷物の追跡状況など、ご注文以外に関しましては<a href="/contact.php">こちら</a>よりお問い合わせ下さい。<br>また、商品の効果・副作用につきましては、薬事法の関係でお答え出来ませんので予めご了承下さい。</div>
+			</div>
+
+			<div id="faxBox">
+				<div class="info1">ＦＡＸ注文<span>24時間受付中</span></div>
+				<div class="info2">FAX注文も承っております。</div>
+				<div class="info3"><a href="/fax_order.pdf" target="_blank" rel="nofollow"><img src="/img/btn_fax.png" alt="FAX注文用紙ダウンロード"></a></div>
+			</div>
+
+			<div id="mailBox">
+				<div class="info1">メール注文<span>24時間受付中</span></div>
+				<div class="info2">メール注文も受け付け中。</div>
+				<div class="info4">下記のボタンを押してメールを起動し、購入したい商品を送信して下さい。</div>
+				<div class="info3"><a href="mailto:info@lifept.shop?subject=【ライフパートナー】メール注文&body=【購入したい商品】%0D%0A（例：ヒムコリン30g　1本）%0D%0A　・%0D%0A　・%0D%0A　・%0D%0A%0D%0A【配達先・お客様情報】%0D%0A　郵便番号　：%0D%0A　配達先住所：%0D%0A　お名前　　：%0D%0A　オナマエ　：　　　　　（お名前のフリガナ）%0D%0A　性　別　　：男性　女性（片方削除して下さい）%0D%0A　生年月日　：西暦19　　年　月　日%0D%0A　電話番号　：%0D%0A　パスワード：　　　　　（半角英数字4文字以上）%0D%0A%0D%0Aライフパートナーの利用規約に同意の上、上記注文を申込みます。%0D%0A"><img src="/img/btn_mail.png" alt="メール注文">メール注文</a></div>
+				<div class="info5">届いたメールを確認次第、当サイトスタッフよりメールを返信させて頂きます。</div>
+				<div class="info6"><a href="/img/ex_mail.png" rel="lightbox[mail]" title="【入力例】メール注文">メールの入力例はこちら</a></div>
+			</div>
+
+			
+			<!-- <img src="/img/left_safety.jpg" alt="安心の個人輸入"> -->
+
+			
+
+			
+
+		</div><!-- leftここまで -->
+
+		<div id="main">
+			<div class="emergency_box no_img">
+	<p class="title img_warn"><a href="/covid-19.php" target="_blank" rel="noopener" style="color:#03c;text-decoration:underline;cursor:pointer;">新型コロナウイルスの影響による配送遅延について</a></p>
+</div>
+
+
+
+
+
+
+
+			<h2 class="normal">ナイトライフ</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1553" target="_blank"><img src="https://lifept.shop/products_img/144x108/vivaCream.jpg" alt="ビバクリーム（女性用）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1553" target="_blank">ビバクリーム（女性用）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;1,350</p></div>
+					<div class="info4">ビバクリームは、膣やクリトリスに塗布することで感度を高めるクリームです。
+
+L-アルギニン、セイヨウハッカオイル、プロピレン、グリコール、ナイアシンなど、疲労回復や不感症改善に有効な天然成分が配合されています。
+
+また、メンソールも含まれているため、塗布した部分はひんやりとした冷感で敏感になり、性的刺激をより強く感じやすくなります。
+
+性的な感度が高まるので、不感症でお悩みの方にはもちろんですが、さらに陰部を敏感にしてオーガズムを感じやすくしたい方にも人気があります。
+</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1553" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=992" target="_blank"><img src="https://lifept.shop/products_img/144x108/kyJ-1.jpg" alt="KYジェリー（女性潤滑ゼリー）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=992" target="_blank">KYジェリー（女性潤滑ゼリー）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;1,800</p></div>
+					<div class="info4">
+KYジェリーは、女性の不感症改善に使用する商品です。
+水溶性のためベタつかず、とても自然な形で膣の中を潤してくれます。
+そのため男性器を挿入する際に生じる、性交痛や不快感を緩和・軽減に効果的です。
+
+またコンドームの上に塗ることで、ゴムの破損予防にもつながります。
+
+無味無臭で刺激物も入っていないため安全性も高く、媚薬などと合わせて使用することも可能です。
+
+</div>
+					<!-- <div class="info5"><a href="dt.php?pid=992" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1591" target="_blank"><img src="https://lifept.shop/products_img/144x108/waibaCream.jpg" alt="威覇（ワイバ）クリーム"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1591" target="_blank">威覇（ワイバ）クリーム</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1箱</span>&yen;2,293</p></div>
+					<div class="info4">威覇（ワイバ）クリームは北京龍覇生物科技有限公社が開発・製造している性的感度を向上させる媚薬クリームです。
+主成分は古来より媚薬の王様とも呼ばれている蛇床子で天然由来の成分である為、副作用の心配もございません。
+威覇（ワイバ）クリーム男性用は性器の殺菌と感度をあげるだけでなく早漏防止の効果もあります。
+威覇（ワイバ）クリーム女性用はもともと不感症の治療の為に開発されたもので性的感度向上のサポートします。普通の女性が使用した場合、より高い性的な満足を得ることが出来ます。
+より満足のいくナイトライフをお望みの男女にオススメの商品です。
+</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1591" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1647" target="_blank"><img src="https://lifept.shop/products_img/144x108/1647_1.jpg" alt="カーマスートラロングラスト（早漏防止コンドーム）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1647" target="_blank">カーマスートラロングラスト（早漏防止コンドーム）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;101</p></div>
+					<div class="info4">早漏防止コンドームのカーマスートラロングラストは、早漏を防ぐことができるコンドームです。
+従来の早漏防止を目的としたコンドームは、そのゴムの厚みを増すことにより陰茎への刺激を少なくするという手法がメインでしたが、このカーマスートラロングラストはエステル型の局所麻酔薬ベンゾカインが予めゴムの内側に注入されていることにより、装着することで敏感なペニスの感覚を鈍らせ、性交時の快感を減少させ、結果射精までの時間を延ばすことが可能となっております。
+肉体的な敏感さが原因で早漏になってしまっている方に特にオススメの商品です。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1647" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A9%E3%82%A4%E3%83%95">もっと見る</a>
+			</p>
+
+
+			<h2 class="normal">媚薬</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1531" target="_blank"><img src="https://lifept.shop/products_img/144x108/chocolateLove.jpg" alt="チョコレートラブDX"></a><img src="/img/osusume.png" alt="オススメ" class="osusume"></div>
+					<div class="info2"><a href="dt.php?pid=1531" target="_blank">チョコレートラブDX</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;3,320</p></div>
+					<div class="info4">チョコレートラブDXはDreamous社が製造しており、気分を落ち着かせるテオブロミンと愛のホルモンであるオキシトシンを新配合した男女兼用のリキッドタイプの媚薬です。
+
+脳内のセロトニンに働きかける事で、幸福感やリラックスを感じ、性欲を増進させることが期待できます。緊張をほぐし、リラックスさせる効果がありますのでパートナーとの距離を縮めたい人におすすめです。
+
+またリキッドタイプの為、吸収が早く<span class="colorRed">即効性が期待できる媚薬</span>としても実証されています。
+
+パートナーとのより親密で濃厚な時を過ごしい方には大変オススメの商品となっております。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1531" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1530" target="_blank"><img src="https://lifept.shop/products_img/144x108/advantage.jpg" alt="アドバンテージDX"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1530" target="_blank">アドバンテージDX</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;3,186</p></div>
+					<div class="info4">アドバンテージDXは米国メーカーのDreamous社が製造した性的効果を高める効果のヨヒンベと魅惑のホルモンのオキシトシンを配合した男女兼用のリキッドタイプの媚薬です。
+
+ヨヒンベは原産国アフリカでは性的機能を高めるハーブとして効果的であり、オキシトシンは男女が愛し合う時などに分泌される別名恋愛ホルモンとも呼ばれており、ストレスがなくなりより幸福感を得られると期待されています。
+
+旧アドバンテージにも配合されているヨヒンベに加え、オキシトシンの配合も加わりこれらの相乗効果によってパートナーとのより濃厚なシチュエーションのナイトライフを望む方へオススメです。
+
+また、シチュエーションを選ばず、自分の気持ちに正直でなりたい時にもお勧めです。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1530" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=227" target="_blank"><img src="https://lifept.shop/products_img/144x108/nexus.jpg" alt="ネクサスフェロモンズスプレー"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=227" target="_blank">ネクサスフェロモンズスプレー</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;4,250</p></div>
+					<div class="info4">フェロモン香水とは、異性を惹きつけるために開発された香水です。
+
+パートナーが欲しい・結婚したい・両思いになりたい・女性にモテたいという方にオススメです。
+
+男性フェロモンの分泌が多いと女性をを惹きつける効果があると言われています。
+
+性誘引物質ともいわれ、フェロモンによってその人がモテるかどうかが決まります。
+
+男性専用の香水です。モテたい方は普段の香水感覚でご使用ください。
+</div>
+					<!-- <div class="info5"><a href="dt.php?pid=227" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1592" target="_blank"><img src="https://lifept.shop/products_img/144x108/OxytocinLove.jpg" alt="オキシトシン・ラブ"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1592" target="_blank">オキシトシン・ラブ</a></div>
+					<div class="info3"><p><font color="red">売切れ</font></p><p><span>1本</span>&yen;3,600</p></div>
+					<div class="info4">オキシトシン・ラブはアメリカにあるDreamous社が開発・製造している、人との繋がりに欠かすことの出来ないホルモンのオキシトシンを含んだ媚薬スプレーです。
+
+オキシトシンは別名「幸せホルモン」や「抱擁ホルモン」などとも呼ばれ、<span class="colorRed">愛や信頼で繋がる人間関係に存在するホルモン</span>です。
+
+オキシトシンの語源は、ギリシャ語で「早く生まれる」を意味しています。
+
+語源の通り、古くから女性の出産や子育てに大きく関係しているホルモンと言われ、特に出産時には大量に分泌するホルモンとしても知られています。
+
+人と接触する、あるいは、簡単なボディータッチだけでも分泌されると言われる<span class="colorRed">脳内物質</span>がオキシトシンです。
+容姿や経済面ではない部分で女性が異性に対して惹かれる時はオキシトシンが大きく関わっていると言われています。
+
+この分泌量が増えると、次のような効果が期待出来ます。
+
+・幸せな気持ちになる
+・頭やこころが癒されて、ストレスの緩和が出来る
+・不安感や恐怖心などが減る
+・人への信頼の気持ちが増す
+・社交性が強まる
+・人間関係を大切にする
+
+ざっと挙げてもこれだけの効果があります。
+
+近年ではIT革命の影響によって、人同士のふれあいが減り、反対に良く触れ合うものと言えば「キーボードorスマホ」くらいだと思います。
+現代人には、明らかに不足している物質とされています。
+
+「<span class="colorRed">幸せホルモン</span>」と呼ばれるくらいなので、分泌量を増やして悪い事はありません。
+
+オキシトシン・ラブをお使いいただくことで男女間では惹かれ合い、より親密な関係になり、出会いやビジネスの場ではストレスの緩和のサポートします。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1592" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E5%AA%9A%E8%96%AC">もっと見る</a>
+			</p>
+
+			<h2 class="normal">薄毛予防</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1595" target="_blank"><img src="https://lifept.shop/products_img/144x108/l-lysine.jpg" alt="プレミアムリジン"></a><img src="/img/osusume.png" alt="オススメ" class="osusume"></div>
+					<div class="info2"><a href="dt.php?pid=1595" target="_blank">プレミアムリジン</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;6</p></div>
+					<div class="info4"><span class="colorRed bold blink">※こちらの商品は郵便局留めができません。</span>
+プレミアムリジンは、ドクターズファーマシー社が開発する万能成分であるリジンを配合したサプリです。
+プレミアムリジンにはリジン2000mgを配合し、肝機能向上効果のある牡蠣エキス、新陳代謝に欠かせない亜鉛酵母、美肌や毛髪の健康維持効果のある海藻などが含まれております。
+リジンは健康を維持する為に必要不可欠なアミノ酸の一つで不足すると疲れや集中力の低下、脱毛症状や脂肪増加の原因になります。
+リジンは体内では生成できないので食品から摂取が必要な物質なのでサプリで補う場合、簡単に必要な量を摂取することが出来ます。
+<font color="red"><b>商品は基本的に1商品単位での発送となりますことをご了承ください。<br />※2個お買い求めの場合は2梱包でのお届けとなります。セット単位の場合は1セットにつき1梱包となります。</b></font>
+<span class="colorRed">※こちらの商品はゆうパケットでの発送になります。</span></div>
+					<!-- <div class="info5"><a href="dt.php?pid=1595" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1618" target="_blank"><img src="https://lifept.shop/products_img/144x108/baku-set.jpg" alt="BAKUシャンプー・トリートメントSET"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1618" target="_blank">BAKUシャンプー・トリートメントSET</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;2,390</p></div>
+					<div class="info4"><span class="colorRed bold blink">※こちらの商品は郵便局留めができません。</span>
+BAKUシャンプー・トリートメントはドクターズファーマシー社が製造するどちらも育毛に対し有効的なミノキシジルと同一効果のピディオキシジル配合のシャンプーとトリートメントのSETです。
+毛穴を綺麗にし、毛根へ育毛成分を浸透させると同時に髪を保護し、髪の傷みをなくします。
+ピディオキシジルだけでなく育毛作用のある成分が含まれている為、一緒にご使用いただくことでより育毛に対して期待を持つことが出来ます。
+ミノキシジルタブレットやプロペシアの育毛剤をお使いの方にもより効果を実感いただける商品です。
+<font color="red"><b>商品は基本的に1商品単位での発送となりますことをご了承ください。<br />※2個お買い求めの場合は2梱包でのお届けとなります。セット単位の場合は1セットにつき1梱包となります。</b></font></div>
+					<!-- <div class="info5"><a href="dt.php?pid=1618" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1532" target="_blank"><img src="https://lifept.shop/products_img/144x108/pantogar1.jpg" alt="パントガール（女性用）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1532" target="_blank">パントガール（女性用）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;71</p></div>
+					<div class="info4">パントガールは女性の薄毛に効果が期待できる育毛剤です。
+
+主に中高年女性に多く見られる「びまん性脱毛症」に効果が期待できます。
+
+パントガールには人間の身体が毛髪を作るときに必要な成分が多く含まれており、それらを補うことで健康な毛髪を育て、保ちます。
+
+実際に行われた臨床実験では、使用者の7割が「抜け毛の減少を実感した」との声が挙げられました（3か月間服用を続けた場合）
+
+そのうち2割の使用者からは「ほとんど抜け毛がなくなった」との声が報告されています。
+
+副作用の報告例が極めて少なく、その安全性の高さから国内の美容クリニックでも処方されています。
+
+しかしながら、クリニックからの処方は非常に高価なため、低価格で購入できる通販がオススメです。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1532" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1007" target="_blank"><img src="https://lifept.shop/products_img/144x108/himalaya-anti-hairloss.jpg" alt="アンチヘアロスクリーム (脱毛軽減クリーム)"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1007" target="_blank">アンチヘアロスクリーム (脱毛軽減クリーム)</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;1,210</p></div>
+					<div class="info4">アンチ・ヘアロス・クリームとは、天然成分を配合して製造しているインドメーカー「ヒマラヤ」の薄毛の原因とも言える脱毛や抜け毛を予防する商品です。
+薄くなった部分や気になるところにクリームをつけ優しく揉み込むことでマッサージの効果によって血行が良くなり、強い毛根をつくり脱毛を防ぐことに繋がります。
+天然由来の成分のため、副作用もなく安心してご使用いただくことが出来ます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1007" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+			<a href="/list.php?xcategory=%E8%96%84%E6%AF%9B%E4%BA%88%E9%98%B2">もっと見る</a>
+			</p>
+
+			<h2 class="normal">体臭改善</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1573" target="_blank"><img src="https://lifept.shop/products_img/144x108/PROBTIN15MG100TL.jpg" alt="プロバンサイン（多汗症）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1573" target="_blank">プロバンサイン（多汗症）</a></div>
+					<div class="info3"><p><font color="red">売切れ</font></p><p><span>1錠</span>&yen;54</p></div>
+					<div class="info4">プロバンサインは多汗症に対し有効的な治療薬です。
+季節関係なく汗の量が多かったり緊張などによって汗が止まらない症状を多汗症と言います。全身性多汗症の場合ですと市販の制汗剤ではカバーすることが出来ません。
+プロバンサインの有効成分であるプロバンテリンは神経系の薬で服用することで生理的な体内の分泌を抑えることで多汗症に対し、有効と言われています。
+即効性があり、全身に効果があり持続時間は5時間程と言われています。
+当サイトではシグマ社とアスペンファーマ社が製造するプロバンサインを取り扱っています。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1573" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1651" target="_blank"><img src="https://lifept.shop/products_img/144x108/prsprxlton-1.jpg" alt="パースピレックスローション"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1651" target="_blank">パースピレックスローション</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;2,520</p></div>
+					<div class="info4">パースピレックスローションは、臭いの元となる発汗自体を抑えるため、多汗症やワキガに効果が期待できます。ローションタイプの制汗剤です。
+
+市販されている制汗剤は、概ね汗を抑える力が弱く、フローラルやソープなど他の匂いで汗臭さを和らげるものが主流ですが、こちらの商品は汗に直接作用し、発汗自体を抑える効果があります。
+
+香料は使用せず、臭いを紛らわすのではなく消臭します。男女問わず使用できるのもうれしいポイントです。
+
+こちらのローションは低刺激ではありますが制汗効果が高い分、配合されている塩化アルミニウムの濃度も高くなっております。よって、わきの下などの敏感な部分に使うよりは、手のひらや足の裏の汗対策としての使用が最適です。
+
+わき汗を防ぎたい方はこちらの<a href="dt.php?pid=1650">パースピレックスロールオン・プラス</a>がオススメです。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1651" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1648" target="_blank"><img src="https://lifept.shop/products_img/144x108/premonsoap.jpg" alt="プレモン石鹸"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1648" target="_blank">プレモン石鹸</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;1,900</p></div>
+					<div class="info4"><span class="colorRed bold blink">※こちらの商品は郵便局留めができません。</span>
+プレモン石鹸は、体臭・加齢臭の対策ができる石鹸です。
+
+抗菌・消臭の持続的効果のある天然渋柿エキス、消臭効果のある茶カテキンと2種類の消臭成分を高配合。
+プレモン石鹸を使った消臭実験では、汗臭98％、足臭97.6％、加齢臭95.9％と高い消臭率が製造元である三鳩化学工業の調査で報告されています。
+
+またプレモン石鹸には、コラーゲン・ヒアルロン酸Naなどの保湿成分が配合されているため、しっとりすべすべな洗いあがり。
+気になる臭いだけでなく、皮脂汚れをしっかり落とします。
+
+プレモン石鹸は、90日間ひとつひとつ手で丁寧に磨けあげていく枠練り製法で作られています。
+そのため、洗浄成分以外の美容成分を配合でき、原料の精製度が高くしっとりと洗い上げる消臭石鹸に仕上がっております。
+
+男女問わず全身に使用可能。
+すべて天然成分のため敏感肌の方も安心して使用することができます。
+<font color="red"><b>商品は基本的に1商品単位での発送となりますことをご了承ください。<br />※2個お買い求めの場合は2梱包でのお届けとなります。セット単位の場合は1セットにつき1梱包となります。</b></font>
+<span class="colorRed">※こちらの商品はゆうパックでの発送になります。</span></div>
+					<!-- <div class="info5"><a href="dt.php?pid=1648" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1649" target="_blank"><img src="https://lifept.shop/products_img/144x108/perspirex-1.jpg" alt="パースピレックスロールオン"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1649" target="_blank">パースピレックスロールオン</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;2,566</p></div>
+					<div class="info4">パースピレックスロールオンは、わきの下や足の裏など、発汗や臭いが気になる部分に直接ロールオンで（本体先端部の球体を転がすように）塗布することにより、汗が分泌されるのを抑える制汗剤です。
+今までの市販の制汗剤は、効果が長続きしないこと、シャワーを浴びたりすると効果が無くなってしまうことが欠点でした。
+本商品は、1度塗布すると平均で約4日もの間、汗と臭いを抑えることができます。
+また、水に濡れてもその効果が落ちることはなく、塗り直しの必要がありません。
+夏の暑い時期だけでなく、日頃から多汗症にお困りの方や、緊張でわき汗や手汗をかいてしまう方にも適しております。
+香料を使用せず、衣類に色が移ることもありませんので、塗っていることを忘れるほどです。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1649" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E4%BD%93%E8%87%AD%E6%94%B9%E5%96%84">もっと見る</a>
+			</p>
+
+			<h2 class="normal">美容スキンケア</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1610" target="_blank"><img src="https://lifept.shop/products_img/144x108/bihakuen-sope-1 .jpg" alt="BIHAKUENハイドロキノンソープ"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1610" target="_blank">BIHAKUENハイドロキノンソープ</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;1,250</p></div>
+					<div class="info4">(BIHAKUEN)ハイドロキノンソープは株式会社ドクターズファーマシーが製造する低刺激の保湿力に優れたハイドロキノン配合の美白石鹸です。
+
+洗顔以外にも全身にも使用可能になっています。
+
+ハイドロキノンは皮膚の漂白剤とも呼ばれメラニン色素の生成を抑制する効果があり、シミや肌荒れの予防にも効果的です。
+
+ビタミンC誘導体やカモミラエキス、パール成分など、美肌効果がある多くの有効成分が含まれているため、嬉しい副効用も期待できます。
+
+低刺激な商品なので洗顔だけでなく全身にも使うことができ、敏感肌の方や毎日使う石鹸から美白スキンケアを始めたい方に大変オススメの商品です。
+
+こんな人にオススメです。
+
+・顔、全身の美白ケアをしたい人
+・美容石鹸をはじめて使う人
+・低刺激な石鹸を探している人
+・敏感肌の人
+
+期待できる効果
+
+・美白
+・美肌
+・シミ
+・くすみ
+
+
+<font color="red"><b>商品は基本的に1商品単位での発送となりますことをご了承ください。<br />※2個お買い求めの場合は2梱包でのお届けとなります。セット単位の場合は1セットにつき1梱包となります。</b></font>
+
+<span class="colorRed">※こちらの商品はゆうパケットでの発送になります。</span>
+
+<span class="colorRed bold blink">※こちらの商品は郵便局留めができません。</span></div>
+					<!-- <div class="info5"><a href="dt.php?pid=1610" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1287" target="_blank"><img src="https://lifept.shop/products_img/144x108/neem-250mg.jpg" alt="ヒマラヤ ニームお肌ケア"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1287" target="_blank">ヒマラヤ ニームお肌ケア</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;20</p></div>
+					<div class="info4">ニームとは、血液の浄化作用と抗菌効果でお肌の調子を整える、天然成分配合のサプリメントです。
+
+主成分ニームは、アトピーやニキビ肌・肌荒れ・吹き出物を自然な形で治療し、きれいな肌に整えていきます。
+
+その他にも、体に溜まった毒素を解読する作用も期待できます。
+
+天然成分のサプリメントですので、副作用を心配なく服用できます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1287" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=311" target="_blank"><img src="https://lifept.shop/products_img/144x108/clarina-anti-acne-kit.jpg" alt="クラリナニキビ予防キット"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=311" target="_blank">クラリナニキビ予防キット</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;1,350</p></div>
+					<div class="info4">クラリナニキビ予防キットとは、ニキビケアと予防がセットになった商品です。 
+
+ニキビ治療に必要な洗顔ジェル・フェイスマスク・クリームがセットになっています。 
+
+しっとりもっちりした肌になる洗顔ジェル60ml・油分をコントロールし毛穴の汚れを除去するフェイスマスク5ml・ニキビ菌の炎症・かゆみを抑えるクリーム30mgが1箱に入っています。 
+
+天然成分の為、副作用もなく安心して服用できます。
+
+長期使用することで、ニキビケアとニキビ予防に繋がります。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=311" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1568" target="_blank"><img src="https://lifept.shop/products_img/144x108/BreastSuccess.jpg" alt="ブレストサクセス"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1568" target="_blank">ブレストサクセス</a></div>
+					<div class="info3"><p><font color="red">売切れ</font></p><p><span>1錠</span>&yen;28</p></div>
+					<div class="info4">ブレストサクセスはアイファイブ社が製造する胸のサイズアップに有効的な女性用のサプリメントです。
+13種類の天然成分が女性ホルモンの働きを促すことで脂肪の貯蓄を増やし、バストアップの効果が実感出来ます。
+
+また代謝がよくなることで、メリハリのある体型を目指すことが可能です。
+
+天然成分のため、安心して服用することができます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1568" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E7%BE%8E%E5%AE%B9%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2">もっと見る</a>
+			</p>
+
+
+			<h2 class="normal">日焼止め</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1655" target="_blank"><img src="https://lifept.shop/products_img/144x108/SunsafeRx.jpg" alt="サンセーフRX"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1655" target="_blank">サンセーフRX</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;81</p></div>
+					<div class="info4">サンセーフRXは、服用することのできる日焼け止めサプリメントです。
+
+今までの日焼け対策といえば、日傘や日焼け止め用のクリーム・スプレーなどの、外から守る方法が一般的でしたが、現在では飲む日焼け止めがテレビ番組でも紹介されるほどに注目を集めております。
+
+サンセーフRXに含まれる成分はどれも天然のものなので、内服タイプの日焼け止めは初めてで飲むことに抵抗があるという方でも安心してお使いいただけます。
+
+こちらのサプリメントは、紫外線を浴びることによって生じるお肌のシミやしわの抑制にも効果があり、繊細な女性のお肌の保護みならず、男性の紫外線対策としても有効です。
+
+日焼けを阻止しながら皮膚の老化も防ぎたい方にとってはうってつけの商品といえます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1655" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1654" target="_blank"><img src="https://lifept.shop/products_img/144x108/HeliocareUltraD-3.jpg" alt="ヘリオケアウルトラDカプセル"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1654" target="_blank">ヘリオケアウルトラDカプセル</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1カプセル</span>&yen;240</p></div>
+					<div class="info4"><span class="colorRed">10月下旬入荷予定</span>
+
+ヘリオケアウルトラDカプセルは、服用することで身体の中から日焼け防止対策をおこなう日焼け止めサプリメントです。
+今までは肌に塗る日焼け止めが主流でしたが、これからは体内からも紫外線対策をしていくことができる時代です。
+
+ヘリオケアウルトラDカプセルはスペインの医薬品開発研究メーカーによってつくられたサプリメントで、皮膚科からもその効果を認められている信頼のおける商品です。
+
+日傘や液体タイプの塗る日焼け止めでは防ぎきれない紫外線の対策にも活用できます。
+
+また、ビタミンDをはじめ、各種ビタミンが含まれているので、日焼けを避けることで生じるビタミン欠乏をカバーすることもできます。
+新感覚の日焼け止めを是非お試しください。
+
+肌に塗るタイプの<a href="dt.php?pid=1653">ヘリオケアウルトラジェルSPF90</a>と併せて使うことによって更なる日焼け止め効果が見込めます。
+
+※ご注文時期により上記いずれかのパッケージ出荷となります。
+※現在は、白パッケージで発送しております。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1654" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1653" target="_blank"><img src="https://lifept.shop/products_img/144x108/HeliocareUltraSPF90Gel.jpg" alt="ヘリオケアウルトラジェルSPF90"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1653" target="_blank">ヘリオケアウルトラジェルSPF90</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1</span>&yen;4,050</p></div>
+					<div class="info4">ヘリオケアウルトラジェルSPF90は、絶対に日焼けしたくない美白女子から絶大な支持を得ている最強の日焼け止めです。
+情熱と太陽の国スペインのメーカーが開発した超強力日焼け止めである本商品は、SPF（サン・プロテクション・ファクター：紫外線防止効果）90という非常に高い数値でありながら、ジェルタイプのサラッとした塗り心地と、お肌にやさしい成分で、肌を労りながら日焼けを防ぎます。
+パッケージの表記がSPF90のものとSPF50+のものがありますが、販売されている国と地域によって異なるだけであり、中身は変わりません。
+ヘリオケアウルトラジェルSPF90は女性だけでなく、日中外で働く男性の肌も紫外線から護ります。
+真夏の強い日差しはもちろんのこと、通年の紫外線対策としてお使いいただけます。
+飲む日焼け止め<a href="dt.php?pid=1654">ヘリオケアウルトラDカプセル</a>と併せて使うことによって更なる日焼け止め効果が見込めます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1653" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1611" target="_blank"><img src="https://lifept.shop/products_img/144x108/bihakuendaycream-1.jpg" alt="BIHAKUENデイクリームSPF30"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1611" target="_blank">BIHAKUENデイクリームSPF30</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;5,000</p></div>
+					<div class="info4">BIHAKUENデイクリームはCa Botana International社が製造する美白や美肌に有効とされている成分を贅沢に使用した美容スキンケアクリームになります。
+
+肌の保護や保湿に有効的な成分を豊富に含み、日中に受ける紫外線などから肌を守り、栄養を与え美肌効果を保ちます。
+
+ハイドロキノンなどの美白製品を使用すると肌の新陳代謝が促進し、紫外線を吸収しやすい状態になる為、肌の保護は非常に重要と言えます。
+
+肌の保護だけでなく保湿に優れた成分も配合しているのでツヤと潤いを与え、シミやしわの改善にも効果があります。
+
+副作用の心配もないため毎日のスキンケアクリームとしてお使いいただけます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1611" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E6%97%A5%E7%84%BC%E6%AD%A2%E3%82%81">もっと見る</a>
+			</p>
+
+			<h2 class="normal">ダイエット</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1545" target="_blank"><img src="https://lifept.shop/products_img/144x108/carbBlocker.jpg" alt="カーボブロッカー"></a><img src="/img/osusume.png" alt="オススメ" class="osusume"></div>
+					<div class="info2"><a href="dt.php?pid=1545" target="_blank">カーボブロッカー</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;33</p></div>
+					<div class="info4"><font color="red"><b>こちらの商品は現在ヤマト便発送のため、自宅住所へのみ発送可能です</b></font>
+
+※ソフトカプセルは30℃を超える温度で溶けやすくなる性質がございますので、夏場などは、到着後は冷所又は冷蔵庫などに入れ保管し、カプセルが冷えた所で、
+ビンを良く振りカプセル同士を離してご利用下さい。
+（ソフトカプセルは液漏れなどない多少の変形ですと製品に問題はございません。
+
+3イン1カーボブロッカーはアーウインナチュラル社が開発・製造している炭水化物分解抑制サプリです。
+リキッドジェルカプセルで体内への吸収率が非常に高く効果も期待出来ます。
+カーボブロッカーに含まれている白インゲン豆エキスには炭水化物消化の働きをする酵素（アミラーゼ）を抑制する効果があります。
+具体的な効果で言えば炭水化物800キロカロリー(ご飯お茶碗8杯分)を阻害してくれます。
+またバイオペリン(R)ブラックペッパーエキスは代謝を向上させることで血流を活発化させ脂肪を燃焼しやすい体質にさせる効果があります。
+他にも有効成分が多く含まれており、低カロリーの食事と適度な運動と併用して使用していただくとさらに高い効果を得ることが出来ます。
+<span class="colorRed">※当商品は1名義で1ヶ月に1個しか購入する事が出来ません。</span></div>
+					<!-- <div class="info5"><a href="dt.php?pid=1545" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=137" target="_blank"><img src="https://lifept.shop/products_img/144x108/ayuslim-1.jpg" alt="アーユスリム（天然ハーブ）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=137" target="_blank">アーユスリム（天然ハーブ）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;20</p></div>
+					<div class="info4">アーユスリムとは、天然成分配合からできた安全・安心な肥満解消のお薬です。
+体重・血圧・コレステロールを減少させる効果があり、服用することで食欲低下、さらに脂肪・炭水化物の燃焼に繋がります。
+また体脂肪の蓄積を軽減する効果も期待できます。
+無理な食事制限することなく、服用続けることでダイエット効果が現れます。
+天然成分の為。副作用もなく安心して使用できます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=137" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=338" target="_blank"><img src="https://lifept.shop/products_img/144x108/ntrgrcniacmbga120c-1.jpg" alt="ガルシニアカンボジア1000mg120錠(Natrol)"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=338" target="_blank">ガルシニアカンボジア1000mg120錠(Natrol)</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;21</p></div>
+					<div class="info4">ガルシニアカンボジアはアメリカのTV番組で絶賛されたダイエットサポートのサプリメントです。
+ガルシニアカンボジアはインドや東南アジアの植物で抽出されたエキスにはヒドロキシクエン酸が含まれており、脂肪の合成を抑制し、肥満予防の効果があります。またこのエキスにはグリコーゲンの合成を促進させる作用があり、血液中のブドウ糖濃度を安定させることで満腹感を与え食欲抑制の効果もあります。
+筋肉ではなく脂肪のみを減らしてくれるのが特徴的でリバウンド予防にも最適と言われています。
+<span class="colorRed bold">※沖縄県へ発送の場合は開梱確認となる場合がございます。</span>
+<span class="colorRed bold">※ガルシニア・カンボジアApetiteIntercept120錠と同じ商品です。</span></div>
+					<!-- <div class="info5"><a href="dt.php?pid=338" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1594" target="_blank"><img src="https://lifept.shop/products_img/144x108/1594_1.jpg" alt="ラズベリーケトン"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1594" target="_blank">ラズベリーケトン</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1ベジカプセル</span>&yen;47</p></div>
+					<div class="info4">ラズベリーケトンはSwanson社が開発したアメリカのTV番組で紹介され大人気商品となった脂肪燃焼促進をサポートするサプリメントです。
+ラスベリーの香り成分のラズベリーケトンは唐辛子に含まれるカプサイシンの分子構造が似ており、脂肪分解効果は3倍と言われております。そして食事で得た脂肪の吸収する消化酵素の働きを阻害する効果もあり、体内への脂肪の吸収を抑え体脂肪の増加を防ぐ働きもします。
+また毛母細胞を活性化させる働きもあると言われており、育毛効果も期待出来るサプリメントでもあります。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1594" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88">もっと見る</a>
+			</p>
+
+			<h2 class="normal">二日酔い対策</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1311" target="_blank"><img src="https://lifept.shop/products_img/144x108/partysmart.jpg" alt="ヒマラヤ パーティスマート二日酔い防止 "></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1311" target="_blank">ヒマラヤ パーティスマート二日酔い防止 </a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;242</p></div>
+					<div class="info4">パーティスマートとは、二日酔いによる頭痛・吐き気・嘔吐・体の痛みなどを緩和するサプリメントです。
+サプリメントに含まれるハーブの成分が、胃粘膜・肝機能を保護
+してくれます。
+特にアムラ成分は、若返りの果実とも言われるほど、健康・肌を整えてくれる効果があります。
+ドリンクタイプが苦手な方は、是非お試し下さい。
+天然成分の為、副作用もなく安心して服用できます。
+</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1311" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1681" target="_blank"><img src="https://lifept.shop/products_img/144x108/Silymarin100mg90vcaps.jpg" alt="シリマリン"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1681" target="_blank">シリマリン</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1ベジカプセル</span>&yen;24</p></div>
+					<div class="info4">シリマリンは、肝臓の働きを正常化し二日酔いの際の各種不快な症状を緩和させる効果のある薬です。
+サプリメントの開発・販売において多大なる実績を誇るライフエクステンション社が製造しています。
+シリマリンには非常に優秀な解毒作用があり、その肝細胞を保護するパワーは毒キノコを誤って食してしまった場合にも有用されるほどです。
+現在ではもっぱら宿酔対策として、肝機能を修復する目的で愛用されている方が多い成分です。
+お酒を普段から頻繁に飲む方や、アルコール度数の高いお酒が好きな方、二日酔いの辛い倦怠感や吐き気を抑えたい方にはぜひお試しいただきたい商品です。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1681" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1675" target="_blank"><img src="https://lifept.shop/products_img/144x108/Pharmarin70mg.jpg" alt="ファーマリン（シリマリン）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1675" target="_blank">ファーマリン（シリマリン）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;21</p></div>
+					<div class="info4">ファーマリンは、肝臓機能を修復する作用を持つシリマリンを有効成分とする薬です。
+アルコールの過剰摂取や複数種類のお酒を飲んだ結果発生する二日酔いの気持ち悪さなどを改善します。
+元来シリマリンには肝炎や肝硬変といった諸々の肝臓障害の治療に用いられておりました。
+そのことからも、傷付いた肝臓を修復する効果があるということがわかります。
+お酒を飲み過ぎた翌日には体調がすぐれないという方は多く、二日酔いにより仕事や私生活に影響が出ることもあります。
+そのようなときはこちらの薬を服用し、肝臓ケアにお役立てください。
+お薬の服用と共に適度な水分を摂ることも大事です。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1675" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1272" target="_blank"><img src="https://lifept.shop/products_img/144x108/liv52ds.jpg" alt="ヒマラヤ Liv.52 DS 肝臓ケア "></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1272" target="_blank">ヒマラヤ Liv.52 DS 肝臓ケア </a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;20</p></div>
+					<div class="info4">Liv.52DSとは、肝機能をupするサプリメントです。
+肝機能が低下すると疲労感・二日酔いが取れない・下半身がむくむ
+といった症状がでてきます。
+Liv.52DSとは、そういった肝機能を保護するためのタブレットタイプの商品です。
+肝細胞の再生を促進することで、飲みすぎや食べ過ぎによる肝機能低下にも効果があります。
+天然成分の為、副作用もなく安心して服用できます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1272" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E4%BA%8C%E6%97%A5%E9%85%94%E3%81%84%E5%AF%BE%E7%AD%96">もっと見る</a>
+			</p>
+
+			<h2 class="normal">検査キット</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=2197" target="_blank"><img src="https://lifept.shop/products_img/144x108/opacy-1.jpg" alt="消毒用アルコールハンドジェル"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=2197" target="_blank">消毒用アルコールハンドジェル</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;504</p></div>
+					<div class="info4">インフルエンザ、新型コロナウィルスの対策に。
+
+オパシー・アンチバクテリアルハンドジェルは細菌・ウィルスの殺菌に有効なアルコール殺菌のハンドジェルです。
+水、タオル不要の「擦り込み式」なので、サッと手軽に時や場所を選ばずに使用が可能です。
+また、肌にやさしい保湿成分ティーツリーオイルも配合。
+
+携帯性に優れ、オフィス、家、車、学校や他の場所でいつでも速やかに手や指の殺菌ができます。
+
+細菌やウイルスへの抵抗力が落ちているご高齢の方や、小さなお子様でも使用できる製品です。
+また、家庭でのインフルエンザ・コロナウィルス対策においては、これらの方はもちろん、家族全員で手の清潔を保つことが大切です。
+<font color="red">※購入日、内容量に関わらず1か月の輸入数は24本までとなります。それ以上の手配は通関が出来ませんので、ご購入の際には本数にご注意下さいますようお願いいたします。
+※新型コロナウイルスの影響で、フライト減便に伴い、ヤマトDG便に遅延が発生しております。 通常ですと、追跡情報は荷物番号お届け後から直ぐに確認出来ますが、現在は1週間から10日程度掛る可能性がある事、予めご了承くださいませ。
+※発送時期によりボトルキャップが白または黒のどちらかになります。また、ラベルが異なる場合があります。
+</font>
+
+【ウィルスの殺菌について】
+アルコールを含まない除菌商品はウィルスをふき取るだけで、殺菌効果はありません。
+インフルエンザやコロナウィルスのような一部のウィルスはエンベロープと呼ばれる膜を持った構造をしており、アルコールによってこの膜を破壊し、毒性を無効化することができます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=2197" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=98" target="_blank"><img src="https://lifept.shop/products_img/144x108/hivkit-1.jpg" alt="HIV検査キット（採血）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=98" target="_blank">HIV検査キット（採血）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;2,520</p></div>
+					<div class="info4">HIV(エイズ)検査キットとは、自宅でエイズを簡単に検査できる商品です。
+病院での検査に抵抗がある人や、日常生活が忙しく検査の時間が割けない人もお使いいただけます。
+1回分、男女兼用使い捨てタイプになります。 
+このキットは医療機関で使われているものと同じなので、その検査結果の<span class="colorRed">99%が実証</span>されており信憑性は高く、安心してご使用できます。
+
+自分一人で検査が出来るおかげで、第三者の目や世間体を気にすることなく検査が出来、そのための場所や時間も選びません。
+自宅でエイズ検査を行い、<span class="colorRed">15分以内という短時間で検査結果が分かる</span>ので、医療機関などに個人情報やキットを送る手間や検査結果を待つ時間が必要ない、とても手軽な商品です。
+ですので、HIV検査キットはエイズ感染の疑いを持っている人や、長年エイズを発症するかもしれないという不安を抱えている人たちの精神的負担を手軽に軽減することができるツールなのです。
+何より、HIV検査キットを使用することで、早期発見に繋がり早期治療が出来て、<span class="colorRed">エイズ発症を防げる可能性</span>が増えます。
+指先の血液を検体に利用するキットなので高い精度を誇り、人気の商品となっています。
+
+病院では、HIVの検査1回につきおよそ5000円以上しますし、保険も適用されません。
+しかしながら当商品は3000円ほどで購入できます。
+自分の健康のことを考えれば安い買い物だと思います。
+
+HIV(エイズ)の反応があった場合は、必ず医師にご相談下さい。 </div>
+					<!-- <div class="info5"><a href="dt.php?pid=98" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1630" target="_blank"><img src="https://lifept.shop/products_img/144x108/rapidDOA.jpg" alt="ドラッグテストキットAB1回分 1セット"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1630" target="_blank">ドラッグテストキットAB1回分 1セット</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;2,836</p></div>
+					<div class="info4">ドラッグテストキットはわかりやすい日本語表記の説明書付きで簡単に20種類の薬物の検査が出来るテストキットです。
+このテストキットは尿検体にある特定の薬物に反応するよう設計しており、正確性においては信用できる検査キットです。
+連日、違法ドラッグの取り締まりのニュースを目にしますが、薬物検査自体日本ではまだ一般的ではありません。海外では会社での健康診断や警察内でも実施されることがあります。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1630" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1602" target="_blank"><img src="https://lifept.shop/products_img/144x108/syphilisTestKit.jpg" alt="梅毒セルフテスト"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1602" target="_blank">梅毒セルフテスト</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;2,280</p></div>
+					<div class="info4">梅毒セルフテストは病院へ行かず、家で梅毒感染の検査結果がわかる検査キットです。
+忙しく病院へ行けない方、医師へ相談しづらい、その場で結果を把握したい方にオススメです。
+ここ近年、日本でも梅毒感染者が増えていると国の調査で発表されています。
+梅毒はトレポネーマと言う病原菌により感染し、その症状は熱やリンパの腫れなど風邪に似ています。また梅毒に感染している場合、HIVなどにも感染する確率も高く、症状が悪化すると最悪の場合、死に至ることもありますので早期治療が大切です。
+従来の検査キットに比べ痛みの少ない採血器具となっておりますので安心してご使用いただけます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1602" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?xcategory=%E6%A4%9C%E6%9F%BB%E3%82%AD%E3%83%83%E3%83%88">もっと見る</a>
+			</p>
+
+			<h2 class="normal">ヒマラヤハーブ</h2>
+			<ul class="itemList clear">
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1272" target="_blank"><img src="https://lifept.shop/products_img/144x108/liv52ds.jpg" alt="ヒマラヤ Liv.52 DS 肝臓ケア "></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1272" target="_blank">ヒマラヤ Liv.52 DS 肝臓ケア </a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;20</p></div>
+					<div class="info4">Liv.52DSとは、肝機能をupするサプリメントです。
+肝機能が低下すると疲労感・二日酔いが取れない・下半身がむくむ
+といった症状がでてきます。
+Liv.52DSとは、そういった肝機能を保護するためのタブレットタイプの商品です。
+肝細胞の再生を促進することで、飲みすぎや食べ過ぎによる肝機能低下にも効果があります。
+天然成分の為、副作用もなく安心して服用できます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1272" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1299" target="_blank"><img src="https://lifept.shop/products_img/144x108/himcolingG-1.jpg" alt="ヒムコリン（天然ハーブ）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1299" target="_blank">ヒムコリン（天然ハーブ）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1本</span>&yen;1,210</p></div>
+					<div class="info4">ヒムコリンとは、勃起不全を改善するクリームタイプの商品です。
+陰茎に直接塗る事で、勃起を可能にし、即効性が高いので人気が高い商品です。 
+また早漏防止の効果もあり、射精までの時間も長くします。
+ジェルタイプのため、サラっとして使いやすい商品です。
+またEDや早漏防止のお薬が苦手な方は、是非お試し下さい。 
+天然成分の為、副作用もなく安心して服用できます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1299" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=67" target="_blank"><img src="https://lifept.shop/products_img/144x108/gokshur-1.jpg" alt="ゴクシュラ（天然ハーブ）"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=67" target="_blank">ゴクシュラ（天然ハーブ）</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1錠</span>&yen;20</p></div>
+					<div class="info4">ゴクシュラは、<span class="colorRed">勃起不全や性欲減退の改善が期待できるサプリメント</span>です。
+
+有効成分であるハマビシにはホルモンを増加する働きがあり、精子の増量や体力増強、更年期障害などにも有効的です。
+
+個人差はありますが、3ヵ月飲み続けることで勃起不全・性欲減退などの症状の改善が期待できます。
+
+天然成分配合のため、副作用もなく安全に使用することができます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=67" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+								<li class="itemBox">
+					<div class="info1"><a href="dt.php?pid=1007" target="_blank"><img src="https://lifept.shop/products_img/144x108/himalaya-anti-hairloss.jpg" alt="アンチヘアロスクリーム (脱毛軽減クリーム)"></a><!--<img src="/img/osusume.png" alt="オススメ" class="osusume">--></div>
+					<div class="info2"><a href="dt.php?pid=1007" target="_blank">アンチヘアロスクリーム (脱毛軽減クリーム)</a></div>
+					<div class="info3"><p>在庫あり</p><p><span>1個</span>&yen;1,210</p></div>
+					<div class="info4">アンチ・ヘアロス・クリームとは、天然成分を配合して製造しているインドメーカー「ヒマラヤ」の薄毛の原因とも言える脱毛や抜け毛を予防する商品です。
+薄くなった部分や気になるところにクリームをつけ優しく揉み込むことでマッサージの効果によって血行が良くなり、強い毛根をつくり脱毛を防ぐことに繋がります。
+天然由来の成分のため、副作用もなく安心してご使用いただくことが出来ます。</div>
+					<!-- <div class="info5"><a href="dt.php?pid=1007" target="_blank">詳細を見る</a></div> -->
+				</li>
+
+			</ul>
+			<p class="itemlink">
+				<a href="/list.php?category=%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%8F%E3%83%BC%E3%83%96">もっと見る</a>
+			</p>
+		</div><!-- mainここまで -->
+
+		<div id="right">
+			
+			<!-- <img src="/img/right_top.png" alt="安心のライフパートナー"> -->
+
+			
+			<div id="rightInfo">
+				<div class="title">ライフパートナーからお知らせ</div>
+				<div class="body">
+					
+				<div class="news">
+					<div class="info1">【2020-10-07】</div>
+					<div class="info2">[10/19]コンビニ決済のファミリーマートメンテナンス実施のお知らせ</div>
+					<div class="info3">いつもご利用いただきありがとうございます。<BR>
+このたび弊社コンビニ決済のサービス提供元より、下記日時にてメンテナンス実施の連絡がございました。<BR>
+■メンテナンス日時<BR>
+2020年10月19日（月）午前0：00 ～午前 6：30<BR>
+■影響範囲<BR>
+ファミリーマートのみ<BR>
+メンテナンス実施時間帯は、ファミリーマートを選択したコンビニ決済の申込ならびに店舗での申込券発券が出来ません。<BR>
+ただし、メンテナンス開始前までに店舗端末にて発券済みの場合はお支払い可能です。<BR>
+なお、ファミリーマート以外でのコンビニでの決済は通常通りご利用可能でございます。<BR>
+大変ご迷惑をおかけ致しますが、何卒ご理解ご協力のほどお願い申し上げます。 </div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-09-28】</div>
+					<div class="info2">現在の商品の配送状況について</div>
+					<div class="info3">新型コロナウイルスの世界的な流行による航空便への影響で、ご注文からお届けまでに大幅にお時間を頂いておりましたが、<BR>
+配送ルートの復旧が進み、9/28現在の時点では「おおよそ3週間」ほどでのお届けが可能となっております。<BR>
+※目安となりますので、前後する可能性もございますことをご了承ください。<BR>
+<BR>
+ウイルスが活発になる冬季にかけ、再度新型コロナウイルス流行の影響が出る可能性もございますので<BR>
+お求めの商品がございます場合にはお早目のご注文をご検討の程、宜しくお願い致します。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-07-16】</div>
+					<div class="info2">発送済商品の追跡状況について</div>
+					<div class="info3">現在、発送済商品の追跡ステータス上で<BR>
+<BR>
+<font color="red"><b>『国際交換局から発送（海外）』</b></font><BR>
+という表示で長い間止まっている、という問い合わせを多く頂いています。<BR>
+<BR>
+<font color="red"><b>こちらのステータスは、発送国の現地国際郵便局にて「受付」が終わった段階であることを意味しており、貨物便の順番待ちの間も上記の表示となります。</b></font><BR>
+その後、貨物便に載って商品が日本へ到着し、日本の税関へ届きますと、次のステータスへ更新されます。<BR>
+<BR>
+商品は全て航空便にて手配していますが、現在、貨物便の大幅な減少により飛行機に載るまでの順番待ち、そして日本に着いた後の税関の検査待ちにてかなりの混雑が発生している模様です。<BR>
+商品をお待ちのお客様には、お時間を頂き大変申し訳ございませんが、貨物は確実に動いておりますので、到着まで今しばらくお待ち頂けますと幸いです。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-06-24】</div>
+					<div class="info2">現在の発送状況について</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+インドのロックダウン解除により、インド発送貨物の配送状況について、その他の国からの発送と同程度の期間でのお届け予定となります。<BR>
+<BR>
+現在のお届け目安は国を問わず、発送後「約１ヵ月」となります。<BR>
+(さらなる郵便局・税関の混雑により前後する可能性も十分ございますので予めご了承ください)<BR>
+<BR>
+現在までインド以外の発送国より優先的に発送を行っていましたが、以後、平常通りインドからの発送も実施させて頂きますので、何卒ご了承のほどよろしくお願いいたします。<BR>
+<BR>
+未だ新型コロナウイルスの影響による国際貨物の遅延が発生しており、お客様には大変ご迷惑をお掛けしています。<BR>
+配送状況については追跡状況を随時ご確認いただきますようお願いいたします。<BR>
+※追跡ステータスの反映まで、追跡番号発行後１週間～２週間程度のお時間を要します。<BR>
+<BR>
+ご不明な点はお気軽に当サイトカスタマーサポートまでご連絡ください。<BR>
+今後とも当サイトをよろしくお願いいたします。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-06-15】</div>
+					<div class="info2">インド発送の進捗について</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+現在、当サイトのインド発送貨物につきましては、ご注文頂いた順番で郵便局へ発送、追跡番号の発行を行っています。<BR>
+発送準備が整い次第、お客様へ追跡番号通知のご連絡をさせて頂いています。<BR>
+<BR>
+発送済商品については、遅延が発生していますが、順次日本への到着を確認できています。<BR>
+到着をお待ちのお客様につきましては、多大な時間を頂き申し訳ございませんが、追跡状況を随時確認の上、商品到着まで今しばらくお待ちください。<BR>
+(番号発行後、追跡状況の反映まで約1週間程度お時間を要します)<BR>
+<BR>
+追跡番号が不明なお客様は、当サイト「注文履歴」、または「お知らせ」から番号を確認頂けます。<BR>
+<BR>
+操作が不明な場合はお気軽に当サイトカスタマーサポートまでご連絡ください。<BR>
+<BR>
+今後とも当サイトをよろしくお願いいたします。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-06-01】</div>
+					<div class="info2">インドのロックダウン解除(発送再開)について</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+インド政府からの発表にて、6/1よりインドのロックダウン(都市封鎖)の段階的解除について通知がございました。<BR>
+<BR>
+現在までに頂いた注文については順次、追跡番号発行・インド郵便局への発送を行っています。<BR>
+<BR>
+しかしながら、郵便局にて混雑が見込まれ、発送完了まで今しばらくお時間を頂く場合もございます。<BR>
+順番に発送を行っており、発送が完了次第、追跡番号をメール・サイト内のお知らせにて通知させて頂きますので、ご確認をお願い致します。<BR>
+<BR>
+また、発送完了(追跡番号発行)後、どの程度でお手元にお届けできるか明確な日程をお伝えすることが難しくなっております。ご了承いただけますと幸いです。<BR>
+<BR>
+現地業者との連携の元、出来うる限り迅速な対応をさせて頂きますので、商品をお待ちのお客様には大変ご迷惑をおかけしますが、商品到着まで今しばらくお待ちください。<BR>
+何卒宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-05-18】</div>
+					<div class="info2">インドのロックダウン再々延長について</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+インド政府からの発表にて<BR>
+コロナウイルス影響による、インドにおけるロックダウン(全土封鎖)のさらなる期間延長が発表されました。<BR>
+<BR>
+ロックダウン解除予定　6月1日<BR>
+<BR>
+これまでのロックダウンと異なり、段階的な解除も予想されるとのことで、現在既にご注文頂いたインド発送商品については順次梱包と発送の準備を進め、インド郵便局が受付を再開次第に配送を再開できるよう手配しております。<BR>
+再度お時間を頂き、大変申し訳ございませんが配送再開まで今しばらくお待ちください。<BR>
+<BR>
+何卒、ご理解・ご紹介頂けますと幸いです。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-05-12】</div>
+					<div class="info2">5月18日コンビニ決済メンテナンスのお知らせ</div>
+					<div class="info3">平素より、当サイトをご利用頂き、誠にありがとうございます。<BR>
+この度、下記日程にてコンビニ決済メンテナンスが実施となります。 <BR>
+<BR>
+■メンテナンス日時 <BR>
+2020年5月18日（月）AM 1：00～AM 7：00<BR>
+<BR>
+対象店舗 <BR>
+・ローソン<BR>
+・セイコーマート<BR>
+・ミニストップ<BR>
+<BR>
+※セブンイレブン・ファミリーマートでは平常通りご利用可能です。<BR>
+<BR>
+■影響範囲 <BR>
+メンテナンス実施時間帯は、<BR>
+ローソン、セイコーマート、ミニストップを選択したコンビニ決済の申込、及び店頭での支払いが行えません。<BR>
+<BR>
+メンテナンス終了後に申し込み・お支払いを頂くようにお願い致します。<BR>
+<BR>
+<BR>
+お客様には大変ご迷惑をおかけ致しますが、 <BR>
+何卒ご理解ご協力のほどお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-05-03】</div>
+					<div class="info2">インドのロックダウン再延長について</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+5月2日、インド政府の発表にてコロナウイルス影響による、インドにおけるロックダウン(全土封鎖)の再延長が通知されました。<BR>
+<BR>
+ロックダウン解除予定　5月17日<BR>
+<BR>
+ロックダウン解除後、配送が再開次第、順次インド商品を発送させていただきます。<BR>
+既にご購入いただいたお客様には再度の延長により、多大なご不便をお掛けし誠に申し訳ございません。<BR>
+配送再開後、現地業者との協力の元、全力でサービス再開に努めますので、何卒宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-04-21】</div>
+					<div class="info2">商品の追跡状況反映の遅延について</div>
+					<div class="info3">平素より当サイトをご利用頂き、誠にありがとうございます。<BR>
+現在、発送可能な商品については順次発送を行っていますが、配送の遅延に伴い、追跡状況の反映にも遅れが発生しています。<BR>
+<BR>
+追跡番号から確認できる追跡状況の反映に、現在「2週間～3週間」ほど要しています。<BR>
+※前後する可能性もございます。<BR>
+<BR>
+追跡状況が反映されるまでの間、日本郵政ホームページ等で<BR>
+「＊＊ お問い合わせ番号が見つかりません。お問い合わせ番号をご確認の上、お近くの取扱店にお問い合わせください。」<BR>
+と表示されますが、お荷物は動いておりますので、追跡状況が反映されるまで今しばらくお待ちください。<BR>
+<BR>
+お客様には多大なご迷惑をおかけしますが、何卒宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-04-14】</div>
+					<div class="info2">インドのロックダウン延長について</div>
+					<div class="info3">インド政府からの発表にて<BR>
+コロナウイルス影響による、インドにおけるロックダウン(全土封鎖)の期間延長が発表されました。<BR>
+<BR>
+ロックダウン解除予定　5月4日<BR>
+<BR>
+ロックダウン解除後、配送が再開次第、順次インド商品を発送させていただきます。<BR>
+お客様には多大なご不便をお掛けし誠に申し訳ございません。<BR>
+最大限の企業努力をさせて頂きますので、何卒ご理解ご協力頂けますよう、宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-03-27】</div>
+					<div class="info2">タイ発送の荷物につきまして</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+新型コロナウイルスの影響で、本日よりタイの郵便局が荷物発送の受付を停止しております。<BR>
+<BR>
+現在、他の発送方法を検討しております。<BR>
+そのため、発送までにお時間がかかる可能性があります。<BR>
+<BR>
+お客様にはご迷惑をおかけすることとなりますが、ご理解とご了承をお願いいたします。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-03-27】</div>
+					<div class="info2">インド発送の遅延につきまして</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+現在、新型コロナウイルスの影響で、3月22日(日)～3月29日(日)までインド航空便のすべてが欠航となります。<BR>
+そのため、インド発送商品が2週間以上遅延する可能性があります。<BR>
+<BR>
+インドは新型コロナウイルスの感染拡大を抑制するため、現地時間3月25日から21日間、インド全土においてロックダウン（インド全土を封鎖）に入りました。<BR>
+そのため、4月中旬までインドからの商品発送ができません。<BR>
+<BR>
+お客様にはご迷惑をお掛けすることとなりますが、ご理解とご了承をお願いいたします。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-03-23】</div>
+					<div class="info2">コロナウイルス影響による配送遅延につきまして(4/2更新)</div>
+					<div class="info3">現在、コロナウイルス影響により、配送、郵便追跡サービスの反映に大幅な遅延が生じております。<BR>
+<BR>
+【インド発送貨物(追跡番号末尾～INのお荷物)】<BR>
+インド全土が封鎖(ロックダウン)しております関係で、発送が中断しております。インド発送再開は、現在4月中旬以降を予定しております。インド封鎖解除次第、順次発送を行う予定です。<BR>
+<BR>
+【シンガポール、香港発送(追跡番号末尾～SG・TWのお荷物)】<BR>
+発送作業は通常通り行っておりますが、郵便追跡状況の反映まで10日前後お時間を要しております。また、貨物航空便の減便の為、お届けについても通常より2週間～3週間ほどの大幅な遅延が生じる見込です。(予定が前後する可能性もございます)<BR>
+<BR>
+続報につきましては随時ご報告させて頂きます。お客様には大変ご迷惑をお掛けしますが、当サイトは現在の厳しい状況下において最善を尽くしてまいりますので、何卒、ご理解とご協力の程、お願い申し上げます。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-03-04】</div>
+					<div class="info2">香港・シンガポール発送の遅延につきまして</div>
+					<div class="info3">いつも当サイトをご利用いただき、誠にありがとうございます。<BR>
+<BR>
+現在、新型コロナウイルスの影響で貨物航空便が減っているため、香港とシンガポール発送の書留便が遅延する可能性があります。<BR>
+<BR>
+香港ヤマト便も同様で、通常ですと、追跡情報は荷物番号お届け後から直ぐにご確認いただけますが、現在は3～7日掛かっております。<BR>
+<BR>
+お客様にはご迷惑をお掛けすることとなりますが、ご理解とご了承をお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2020-03-03】</div>
+					<div class="info2">3/6コンビニ決済のメンテナンスに伴うサービス停止のお知らせ</div>
+					<div class="info3">いつもご利用いただきありがとうございます。<BR>
+<BR>
+このたび弊社コンビニ決済のサービス提供元より、下記日時にてメンテナンス実施の連絡がございました。<BR>
+<BR>
+■メンテナンス日時<BR>
+2020年3月6日（金）0：00 ～ 7：30<BR>
+<BR>
+■影響範囲<BR>
+全コンビニが対象となります。<BR>
+メンテナンス実施時間帯は、コンビニ決済の申込が出来ず、画面上にメンテナンス中である旨の表示がされます。<BR>
+<BR>
+なお、メンテナンス前に決済申込が完了している分につきましては、メンテナンス中でも店頭でのお支払いが可能でございます。<BR>
+<BR>
+大変ご迷惑をおかけ致しますが、何卒ご理解ご協力のほどお願い申し上げます。願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-12-03】</div>
+					<div class="info2">【重要】年末年始の銀行振込みに関する注意点</div>
+					<div class="info3">全国銀行協会より、年末年始のお振込みに関し周知がございましたので記載させて頂きます。<BR>
+<BR>
+<BR>
+年末年始の銀行ATMネットワークメンテナンスの為、下記期間内に関しまして<BR>
+銀行振込にてお支払いいただく際の「受取人名義」(当サイトよりご案内の口座名義)をお客様自身でご入力いただく場合があるとのことでございます。<BR>
+<BR>
+https://www.zenginkyo.or.jp/topic/atm202001/<BR>
+(全国銀行協会ホームページ)<BR>
+<BR>
+■メンテナンス期間<BR>
+2019年12月31日（火）23時52分～2020年1月4日（土）3時50分<BR>
+<BR>
+■注意点<BR>
+メンテナンス期間中は、他行あて振込のお手続きの際に、「受取人口座名義」をご入力いただく必要がございます。<BR>
+<BR>
+<BR>
+・【通常時】の手続きフロー<BR>
+振込先の　【1】銀行名　【2】支店名　【3】口座番号　をご入力頂くと、「受取人口座名義」(送金先口座名義)が自動で表示されます（一部金融機関を除く）。<BR>
+<BR>
+・【メンテナンス期間中】の手続きフロー<BR>
+振込先の「銀行名」「支店名」「口座番号」に加えて、「受取人口座名義」(送金先口座名義)の入力が必要になります。<BR>
+※他行へのお振込みの場合のみ。<BR>
+<BR>
+<BR>
+名義をお間違えになった場合、金融機関にて正しい入金処理が行われず組戻し(返金)となる場合があります。<BR>
+送金が完了できていない場合、再度お振込みが必要となりますので、口座名義をお間違えないようご注意ください。<BR>
+<BR>
+ご心配な場合は、メンテナンス終了後にお振込みを頂くか、コンビニ決済などをご活用頂けますと幸いです。<BR>
+大変ご不便をおかけしますが、ご理解とご協力をお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-12-02】</div>
+					<div class="info2">年末年始の発送に関しまして</div>
+					<div class="info3">一部発送元が、「12月31日～1月5日」まで休業となる関係で、<BR>
+【発送手配(追跡番号発行)が最大1週間程度遅延】する可能性があります。<BR>
+その間に頂きましたご注文は、発送元が営業再開次第、順次発送となります。<BR>
+<BR>
+その他の期間に関しましても、<BR>
+クリスマス後～年末年始は郵便局が大変混雑するため、追跡番号発行の遅延、お届け遅れが予想されます。<BR>
+<BR>
+普段のお届けよりも大幅に日数がかかる可能性がございますので、<BR>
+予めご了承の上、お日にちに余裕を持ってご注文をお願い致します。<BR>
+<BR>
+年内にお受け取りご希望の場合は、12/9の週までにご注文されることをおすすめいたします。<BR>
+(混雑の状況によりますので、保証はいたしかねます事をご了承ください。)</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-12-02】</div>
+					<div class="info2">年末年始の当サイト営業に関して</div>
+					<div class="info3">年末年始の当サイトサポート業務に関しまして<BR>
+下記の通り、元日を休業日とさせて頂きます。<BR>
+<BR>
+・休業日<BR>
+2020年1月1日(水)<BR>
+<BR>
+サイトからのご注文は、平常通り行って頂けます。<BR>
+電話注文・お問い合わせ対応などのサポート業務は停止となりますのでご了承ください。<BR>
+2日より、通常通りサポート業務を再開させて頂きます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-11-25】</div>
+					<div class="info2">11/26コンビニ決済メンテナンス、及び申込画面変更点のお知らせ</div>
+					<div class="info3">この度、下記日程にてコンビニ決済メンテナンス、<BR>
+及びコンビニ申し込み画面の変更点がございます。 <BR>
+<BR>
+■メンテナンス<BR>
+2019年11月26日（火）0：00 ～ 7：30<BR>
+<BR>
+対象店舗 <BR>
+・全コンビニ<BR>
+<BR>
+メンテナンス実施時間帯は、コンビニ決済の申込が出来ず、<BR>
+画面上にメンテナンス中である旨の表示がなされます。<BR>
+<BR>
+尚、メンテナンス前に決済申込が完了している分につきましては、<BR>
+メンテナンス中でも店頭でのお支払いが可能でございます。<BR>
+メンテナンス中に頂きましたお支払いは、メンテナンス完了後に決済完了となります。<BR>
+<BR>
+<BR>
+■コンビニ決済申込画面変更<BR>
+2019年11月29日（金）午前7時～<BR>
+<BR>
+変更箇所<BR>
+上記日時より、コンビニ決済申込ページで、お客様の「氏名」入力が必要となります。<BR>
+<BR>
+※当サイトにてご注文頂いた際の氏名をご入力下さい。<BR>
+その他、個人情報は一切必要ございません。<BR>
+<BR>
+<BR>
+お客様には大変ご迷惑をおかけ致しますが、 何卒ご理解ご協力のほどお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-11-18】</div>
+					<div class="info2">※重要※サーバーメンテナンスのお知らせ</div>
+					<div class="info3">本サイトは2019年11月19日（火）にサーバーのメンテナンスを実施します。<BR>
+それに伴い、下記の通りホームページの閲覧および購入・決済を一時休止いたします。<BR>
+お客様にはご不便をおかけいたしまして、誠に申し訳ございませんが、ご了承くださいますようお願い申し上げます。<BR>
+<BR>
+■ホームページの閲覧および購入・決済の休止日時<BR>
+　2019年11月19日（火）15：30 ～21：30<BR>
+<BR>
+※作業の状況により終了時間が前後することがございますのでご了承下さい。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-11-13】</div>
+					<div class="info2">auWALLETプリペイドカードをご利用される場合の注意点</div>
+					<div class="info3">当サイトにて、「auWALLETにて決済を行い、カード残高から2重に引き落とされている」との問い合わせが増加しております。<BR>
+カード決済は海外決済となり、為替差益による価格変動がございますので、<BR>
+auWALLETホームページに記載がございます下記に該当する可能性がございます。<BR>
+<BR>
+■一時的な代金の二重引落しについて<BR>
+ご購入時の金額とお支払金額確定時の金額に相違があった場合、一時的に残高が二重に引落しされる場合がございます。<BR>
+その場合、45日後に重複分の金額が自動的に返金され、残高へ反映されます。<BR>
+https://wallet.auone.jp/contents/pc/guide/caution.html<BR>
+<BR>
+こちらについての重複分に関しましては当サイトにて対応を行うことが出来ません為、auWALLETサポートへお問い合わせ頂く必要がございます。<BR>
+何卒ご留意の程、宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-11-12】</div>
+					<div class="info2">国際交換局混雑に伴うお届けの遅延について</div>
+					<div class="info3">平素よりお世話になっております。<BR>
+現在、国際郵便物増加により、空港・国際交換局・税関それぞれにて、混雑による作業遅延が発生している模様です。<BR>
+<BR>
+(外国来の郵便物増加に伴うお届けへの影響について)<BR>
+https://www.post.japanpost.jp/int/information/2019/1101_01.html<BR>
+<BR>
+こちらの影響で、当サイト商品に関しましてもお荷物の到着・郵便追跡番号の反映に数日遅れが生じております。<BR>
+お客さまには多大なご不便をおかけしておりますが、何卒ご理解・ご協力の程、宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-10-11】</div>
+					<div class="info2">台風19号の影響による荷物のお届けについて</div>
+					<div class="info3">台風19号の影響による船舶便の欠航に伴い、鹿児島県島しょ部および沖縄県におきまして<BR>
+配達の遅延が発生する可能性がございます。<BR>
+<BR>
+また、ヤマト運輸でのお荷物は、関西・東日本で国際宅急便の通関および荷物のお届けに遅れが生じる可能性がございます。<BR>
+<BR>
+お急ぎのところご迷惑をおかけいたしますが、なにとぞご理解のほどよろしくお願い申し上げます。<BR>
+<BR>
+詳しくは、下記をご参照ください。<BR>
+<BR>
+ヤマト運輸<BR>
+<a href="http://www.kuronekoyamato.co.jp/ytc/info/info_191008.html">http://www.kuronekoyamato.co.jp/ytc/info/info_191008.html</a><BR>
+<BR>
+日本郵便<BR>
+<a href="https://www.post.japanpost.jp/notification/productinformation/2019/1009_01.html">https://www.post.japanpost.jp/notification/productinformation/2019/1009_01.html</a></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-10-04】</div>
+					<div class="info2">10/7コンビニ決済メンテナンスのお知らせ※ファミリーマートのみ</div>
+					<div class="info3">この度、下記日程にてコンビニ決済メンテナンスが実施となります。<BR>
+※ファミリーマートのみ<BR>
+<BR>
+■メンテナンス日時<BR>
+2019年10月7日（月）1：00 ～ 6：00<BR>
+<BR>
+■影響範囲<BR>
+メンテナンス実施時間帯は、ファミリーマートを選択した<BR>
+コンビニ決済の申込ならびに店舗での申込券発券が行えません。<BR>
+但し、メンテナンス開始前までに店舗端末にて発券済みの場合はお支払い可能です。<BR>
+<BR>
+なお、ファミリーマート以外のコンビニにつきましては<BR>
+通常通り申込ならびに店頭でのお支払いが可能でございます。<BR>
+<BR>
+お客様には大変ご迷惑をおかけ致しますが、 何卒ご理解ご協力のほどお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-09-26】</div>
+					<div class="info2">9/30～10/1コンビニ決済メンテナンスのお知らせ</div>
+					<div class="info3">この度、下記日程にてコンビニ決済メンテナンスが実施となります。<BR>
+コンビニ店舗ごとにメンテナンス時間、及び詳細が異なりますので、何卒ご注意下さい。<BR>
+<BR>
+〇セブンイレブン、ファミリーマート<BR>
+2019年9月30日（月）23：00 ～ 10月1日（火）1：00<BR>
+上記時間帯は、コンビニ決済の申込が出来ません。<BR>
+支払い番号取得済みの場合、店頭でのお支払いは可能でございます。<BR>
+<BR>
+〇ローソン・ミニストップ<BR>
+2019年9月30日（月）23：00 ～ 10月1日（火）5：00<BR>
+上記時間帯は、コンビニ決済の申込ならびに店舗での発券が出来ません。<BR>
+メンテナンス開始前までに店舗端末にて発券済みの場合はお支払い可能でございます。<BR>
+<BR>
+〇セイコーマート<BR>
+2019年9月30日（月）23：00 ～ 10月1日（火）2：00<BR>
+上記時間帯は、コンビニ決済の申込ならびに店舗での発券が出来ません。<BR>
+メンテナンス開始前までに店舗端末にて発券済みの場合はお支払い可能でございます。<BR>
+<BR>
+<BR>
+お客様には大変ご迷惑をおかけ致しますが、 何卒ご理解ご協力のほどお願い申し上げます。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-09-09】</div>
+					<div class="info2">消費税増税に伴う『コンビニ決済手数料10円値上げ』につきまして※10/1より※</div>
+					<div class="info3">いつも当サイトをご利用頂き、誠にありがとうございます。<BR>
+<BR>
+2019年10月からの消費税増税に伴いまして<BR>
+『コンビニ決済』の決済手数料につきまして<BR>
+下記の通り変動がございます。<BR>
+<BR>
+<BR>
+■コンビニ決済手数料<BR>
+現在<BR>
+お客様ご負担額290円（税込）<BR>
+↓<BR>
+令和元年10月1日以降<BR>
+お客様ご負担額300円（税込）<BR>
+<BR>
+<BR>
+何卒ご迷惑をおかけ致しますが<BR>
+ご了承の上、ご利用の程宜しくお願い致します。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-09-06】</div>
+					<div class="info2">コンビニ決済、ペイジー決済のメンテナンスに伴うサービス停止のお知らせ</div>
+					<div class="info3">いつもライフパートナーをご利用いただきありがとうございます。<BR>
+<BR>
+このたび弊社コンビニ決済、ペイジー決済のサービス提供元より、下記日時にてメンテナンス実施の連絡がございました。<BR>
+<BR>
+■メンテナンス日時<BR>
+2019年9月15日（日）0：00 ～ 5：30<BR>
+<BR>
+■影響範囲<BR>
+全コンビニが対象となります。<BR>
+メンテナンス実施時間帯は、ペイジー決済、コンビニ決済の申込が出来ず、画面上にメンテナンス中である旨の表示がなされます。<BR>
+<BR>
+なお、メンテナンス前に決済申込が完了している分につきましては、<BR>
+メンテナンス中でも店頭でのお支払いが可能でございます。<BR>
+<BR>
+大変ご迷惑をおかけ致しますが、何卒ご理解ご協力のほどお願い申し上げます。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-07-28】</div>
+					<div class="info2">配送遅延のお知らせ</div>
+					<div class="info3">先日工事現場にて発見された不発弾撤去作業が行われます。 <BR>
+<BR>
+このため、警戒区域にあるヤマト運輸の施設において仕分け作業等が行えず、 <BR>
+集荷、配達業務が休止されます。 <BR>
+<BR>
+実施日：2019年7月28日（日） <BR>
+<BR>
+国際宅急便の荷物も以下の地域は、集配が遅延することが予想されております。 <BR>
+関係者の皆様にはご迷惑をおかけしますが、予めご了承ください。 <BR>
+<BR>
+遅延の可能性がある日時：2019年7月28日（日）終日 <BR>
+<BR>
+対象地域：東京都江東区、中央区、台東区、墨田区、葛飾区 <BR>
+<BR>
+詳しくは<a href="http://www.kuronekoyamato.co.jp/ytc/info/info_190723.html" target="_blank">こちら</a>をご覧ください。<BR>
+<BR>
+お客様にはご不便お掛けしますが、何卒ご理解いただけますと幸いです。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-07-08】</div>
+					<div class="info2">サイトメンテナンスのお知らせ【7/8(月)15時～18時】</div>
+					<div class="info3">平素より「ライフパートナー」をご利用いただき誠にありがとうございます。 <BR>
+この度、サービス向上のため、システムメンテナンスを実施いたします。 <BR>
+<BR>
+■メンテナンス日時 <BR>
+2019年7月8日（月）15：00～18：00<BR>
+<BR>
+メンテナンス作業中はサイトをご利用いただくことができません。 <BR>
+また、メンテナンス中に決済頂きますと、決済情報が当サイトへ届くまでに通常よりもかなりのお時間を頂く場合がございます。<BR>
+スムーズな発送を行うため、既にご注文を頂いているお客様は、お支払いはメンテナンス終了までお待ちくださいますようお願い致します。 <BR>
+<BR>
+ご不便をおかけして申し訳御座いませんが、何卒ご理解とご協力の程、よろしくお願い申し上げます。 <BR>
+ライフパートナーを今後とも何卒宜しくお願いいたします。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-07-04】</div>
+					<div class="info2">インド貨物の発送遅延につきまして</div>
+					<div class="info3">現在、インド国内で発生した大雨の影響により、交通が困難になっており、<BR>
+その影響で貨物の発送及び追跡状況の反映に遅延が発生しております。<BR>
+天候が回復次第、通常通りの配送となります。<BR>
+<BR>
+お客様にはご不便お掛けしますが、何卒ご理解いただけますと幸いです。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-06-27】</div>
+					<div class="info2">G20開催による関西地方への配送遅延の可能性につきまして</div>
+					<div class="info3">6月28日(金)、6月29日(土)に迫りました、大阪市内で開催される<BR>
+「G20サミット」の影響で、大阪府内を中心に大規模な交通規制が行われる予定です。<BR>
+これにより、関西空港への道路も交通規制がかかり、お荷物の配送に影響が出る可能性がございます。<BR>
+<BR>
+大変ご迷惑をお掛けしますが、ご了承頂きます様お願いいたします。<BR>
+<BR>
+<a href="https://www.post.japanpost.jp/notification/productinformation/2019/0606_01.html">■日本郵便（G20大阪サミット開催に伴う交通規制の影響による郵便物・ゆうパックなどのお届け等に関するお知らせ）</a><BR>
+<BR>
+<a href="http://www.kuronekoyamato.co.jp/ytc/info/info_190531_02.html">■ヤマト運輸（「G20サミット」に伴う交通規制の影響によるお届けの遅延と一部サービスの中止について）</a><BR>
+<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2019-05-13】</div>
+					<div class="info2">コンビニ決済メンテナンスのお知らせ</div>
+					<div class="info3">この度、下記日程にてコンビニ決済メンテナンスが実施となります。<BR>
+<BR>
+対象店舗<BR>
+・ローソン<BR>
+・ミニストップ<BR>
+・セイコーマート<BR>
+<BR>
+■メンテナンス日時<BR>
+　2019年5月20日（月）AM0：00～AM8：00<BR>
+<BR>
+■影響範囲<BR>
+メンテナンス実施時間帯は、<BR>
+ローソン・ミニストップ・セイコーマートを選択した<BR>
+「決済申込」および「店頭でのお支払い」が出来なくなります。<BR>
+<BR>
+※セブンイレブン・ファミリーマートでは通常通りご利用可能です。<BR>
+<BR>
+お客様には大変ご迷惑をおかけ致しますが、<BR>
+何卒ご理解ご協力のほどお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2018-12-26】</div>
+					<div class="info2">年末年始の営業と発送について</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとうございます。 <BR>
+<BR>
+年末年始も電話、メール、FAXでのご注文は通常通り受け付けておりますが【1月1日～1月3日】 の期間は発送作業をお休みとさせていただきます。<BR>
+<BR>
+期間内にご購入いただきました商品は1月4日からの発送となります。<BR>
+<BR>
+また、インド便発送の一部の商品につきまして、12月29日～1月5日までの期間、遅延が予想されます。<BR>
+貨物番号の発行、貨物の発送、追跡状況の反映に数日遅れが生じる可能性がありますのでご了承くださいませ。<BR>
+<BR>
+お客様にはご不便をおかけいたしますがご理解いただけますようよろしくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2018-01-30】</div>
+					<div class="info2">コンビニ決済一時停止について</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとうございます。<BR>
+導入から非常に多くのご愛顧をいただいているコンビニ決済ですが、システムの仕様変更に伴い、下記日程より取扱いを一時停止とさせていただきます。<BR>
+<BR>
+■日時<BR>
+1月30日15時より<BR>
+<BR>
+現在、再開の時期については調整中となっております。<BR>
+再開となりましたら改めて告知させていただきますので宜しくお願い致します。<BR>
+なお、【銀行振込】でのご購入は常時5％割引キャンペーンを行っておりますので、是非ご利用下さいませ。<BR>
+<BR>
+弊社都合で大変恐縮では御座いますが、ご理解の程、宜しくお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2018-01-19】</div>
+					<div class="info2">コンビニ決済導入について</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとうございます。<BR>
+この度、ライフパートナーではご注文代金をコンビニエンスストアでお支払いいただける【コンビニ決済】を導入致しました。<BR>
+<BR>
+■コンビニ決済とは？<BR>
+コンビニ決済とは、インターネットでお買物をされる際に、<BR>
+ご注文された商品代金をお近くのコンビニエンスストアでお支払い頂けるサービスです。<BR>
+<BR>
+「注文したのはいいけど振込みに行くのが面倒・・・」<BR>
+「振込みしたいけど銀行が休み・・・」<BR>
+そんな時でも、お近くのコンビニで簡単にお支払いが可能な便利なサービスとなりますので是非ご活用下さい。<BR>
+コンビニ決済は下記のコンビニエンスストアでご利用可能です。<BR>
+※ご利用方法も併せてご確認下さい。<BR>
+<BR>
+・セブンイレブン<BR>
+・ファミリーマート<BR>
+・ローソン<BR>
+・ミニストップ<BR>
+・セイコーマート<BR>
+・サークルK/サンクス/デイリーヤマザキ<BR>
+<BR>
+ライフパートナーでは、今後ともお客様の利便性とサービス向上に努めて参りますので何卒、宜しくお願い致します。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-12-04】</div>
+					<div class="info2">年末年始の営業につきまして</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとう御座います。<BR>
+年末年始の発送は、元旦のみ海外郵便局がお休みとなりますので、弊社のサポート業務につきましてもお休みとさせて頂きます。<BR>
+1月2日より、電話注文やサポート業務を再開させて頂きます。<BR>
+発送元の海外薬局につきましては、1～3日と発送国によって休みが異なります。 <BR>
+また毎年の事ながら、交通渋滞や税関の混雑が予想されますので、平時よりも多少の遅延が予想されます。お届け日時に余裕を持ったお買い物をお願い出来れば幸いです。<BR>
+<span class="colorRed bold">※年内にお受け取り希望の場合は、12/11の週までに注文されることをオススメ致しております。</span></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-11-17】</div>
+					<div class="info2">スマートドラックの個人輸入規制に関して    </div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとうございます。  <BR>
+兼ねてよりニュース等で取り上げられておりましたスマートドラックについて、  <BR>
+下記の通り、該当有効成分を含む一部商品の個人輸入が規制される事となりました。  <BR>
+ <BR>
+規制対象商品には、あがり症を克服する<a href="https://www.philipstraub.com/dt.php?pid=1180">インデラル</a>や、  <BR>
+むくみを取る<a href="https://www.philipstraub.com/dt.php?pid=1187">ラシックス</a>、  <BR>
+記憶力向上が見込めるとされる<a href="https://www.philipstraub.com/dt.php?pid=1673">ピラセタム</a>などが含まれます。  <BR>
+ <BR>
+▼朝日新聞DIGITAL  <BR>
+<a href="http://www.asahi.com/articles/ASKCG66DZKCGULBJ016.html" target="_blank">http://www.asahi.com/articles/ASKCG66DZKCGULBJ016.html</a>  <BR>
+ <BR>
+▼輸入規制商品一覧  <BR>
+ピラセタム  <BR>
+イーケプラ  <BR>
+ストラテラ  <BR>
+ストラテラ・ジェネリック  <BR>
+シチコリン  <BR>
+イデベノン・ジェネリック  <BR>
+ニモトップ  <BR>
+インデラル・ジェネリック  <BR>
+テノーミン  <BR>
+パーロデル  <BR>
+ラシックス  <BR>
+ラシラクトン  <BR>
+フレティック  <BR>
+フロセミド  <BR>
+ナディック・ジェネリック  <BR>
+ <BR>
+輸入規制の施行までは通常通りの販売を行いますが、規制に伴う注文量増加により、市場在庫が枯渇する可能性が御座います。  <BR>
+ご購入を検討されているお客様におきましては、お早めにご購入頂きますようお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-10-18】</div>
+					<div class="info2">19.20日インド発送停止のご案内</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとう御座います。 <BR>
+インドでは19日～20日が、ディワーリというお祭りが行われます。 <BR>
+それに伴いまして、公的機関である郵便局や税関の営業をしませんので、貨物番号の発行、貨物の発送及び追跡状況の反映に遅れが発生します。 <BR>
+ご迷惑をお掛けしますが、ご了承の程お願い致します。 <BR>
+今後ともライフパートナーをよろしくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-10-12】</div>
+					<div class="info2">ポイント付与と割引変更のお知らせ</div>
+					<div class="info3">いつもライフパートナーをご利用いただき、誠にありがとう御座います。 <BR>
+銀行振り込みの割引ならびにポイント付与について、本日10/12より変更を行いますので、 <BR>
+ご連絡致します。 <BR>
+<BR>
+【割引】 <BR>
+銀行振込→5％OFF <BR>
+<BR>
+【ポイント】 <BR>
+銀行振込→5％付与 <BR>
+クレジット→3％付与 <BR>
+<BR>
+10,000円のお買い物をされたお客様を例にしますと銀行振り込みの場合は、 <BR>
+購入時5％OFF＋次回お買い物ポイント5％付与の合計10％お得となります。 <BR>
+<BR>
+ライフパートナーでは、今後もより一層のサービスと利便性の向上に取り組んで参ります。 <BR>
+今後ともよろしくお願い致します。 </div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-05-25】</div>
+					<div class="info2">銀行振込で10％割引サービス</div>
+					<div class="info3">いつもライフパートナーをご利用頂き、誠にありがとう御座います。 <BR>
+商品購入時に商品代金が10％引きとなるとてもお得な<span class="colorRed bold">【銀行振込10％引き】</span>に関するお知らせです！<BR>
+例）10,000円のご購入だった場合、銀行振込の場合9,000円のお支払いとなりますが、クレジット決済の場合は通常通り10,000円です。<BR>
+購入後のポイントにつきましては、どちらにも3％付与させて頂きます。<BR>
+昨今のクレジットカード決済に関して、ご利用頂いている会員様にはご不便がお掛けしております事を深くお詫び致します。<BR>
+今後も多くのお客様にご満足頂けるよう努力して参りますので、今後とも宜しくお願い申し上げます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-05-21】</div>
+					<div class="info2">VISAカードの利用について</div>
+					<div class="info3">いつもライフパートナーをご利用頂き、誠にありがとう御座います。 <BR>
+5/19夜より、VISAカードの利用に制限が掛かっており、決済失敗のお問合せを多数頂いております。<BR>
+現状では、復旧の目途が立っておりませんので、他のカードブランドまたは、銀行振込のご利用をお願い致します。ご迷惑をお掛けして、大変申し訳御座いません。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-05-11】</div>
+					<div class="info2">バルデナフィル商品につきまして</div>
+					<div class="info3">いつもライフパートナーをご利用頂き、誠にありがとう御座います。<BR>
+<span class="colorRed bold blink">レビトラジェネリック</span>の商品になりますが、一部のメーカーで製造を停止しており仕入が困難となっております。製造国のインドでも在庫が高騰しておりまして弊社も現状で持っている在庫を最後に終了となる見込みです。<BR>
+ご希望のお客様は、お早めにお買求め下さい。<BR>
+<a href="dt.php?pid=1348">バリフ￥200円～</a><BR>
+<a href="dt.php?pid=1503">ジェビトラ￥210円～</a><BR>
+<a href="dt.php?pid=1521">スーパージェビトラ\500円～</a></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2017-05-06】</div>
+					<div class="info2">クレジットカード決済障害について</div>
+					<div class="info3">5月5日の午前1時から正午までクレジットカード会社のサーバーに接続障害が発生しました。<BR>
+上記の時間帯に決済を行えなかったお客様に多大なご迷惑をお掛けしたことを謝罪させて頂きます。<BR>
+今後は同様の事態が起きないようクレジットカード会社と密に連携を取り改善して参ります。<BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-12-07】</div>
+					<div class="info2">年末年始の発送について</div>
+					<div class="info3">年末年始の発送は、元旦のみ海外郵便局がお休みとなります。<BR>
+発送元の海外薬局につきましては、1～3日と発送国によって休みが異なります。 <BR>
+また毎年の事ながら<span class="colorRed bold">交通渋滞や税関の混雑が予想されますので、平時よりも多少の遅延が予想されます。 </span><BR>
+<span class="colorRed bold">お届け日時に余裕を持ったお買い物をお願い出来れば幸いです。 </span><BR>
+電話注文やサポートにつきましては、年中無休で営業しております。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-11-28】</div>
+					<div class="info2">【重要】クレジット決済の為替差益につきまして</div>
+					<div class="info3">VISA・Master・AMEXのカードは元（げん）決済です。<BR>
+昨今は、外貨の変動幅が大きく元⇒円へのエクスチェンジ時に為替差益が発生しており、3-6％前後の手数料が掛かっております。<BR>
+<span class="colorRed bold">購入金額以外に、為替差益がお客様の負担となりクレジット会社から請求される可能性が御座います。</span><BR>
+ご負担頂いた6％分を当サイトでは、次回購入時に利用頂けるポイントとして付与しております。<BR>
+こちらをご理解の上で、クレジット決済をお願い致します。<BR>
+<span class="colorRed bold">※当サイトでは、銀行振込をオススメしております。</span></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-09-27】</div>
+					<div class="info2">大量仕入れにより大幅値下げ!!</div>
+					<div class="info3">まつ毛育毛剤の先発薬ルミガン0.03％、ジェネリック薬のケアプロスト、ビマトアイドロップが好調な売行きのため、大量入荷で大幅な値下げを断行しました!!<BR>
+上記3商品の成分は、同一のビマトプロスト0.03％となり同一の効果が得られます。<BR>
+この機会に是非、お買い求め頂ければ幸いです。<BR>
+<BR>
+<a href="dt.php?pid=1218">ルミガン￥1900</a><BR>
+<a href="dt.php?pid=970">ケアプロスト￥1150</a><BR>
+<a href="dt.php?pid=1216">ビマトアイドロップ￥950</a></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-09-14】</div>
+					<div class="info2">エチゾラム・ゾピクロン含有商品についての重要なお知らせ</div>
+					<div class="info3"><span class="colorRed bold blink">エチゾラム・ゾピクロンが、輸入禁止になる開示日が発表されました。</span><BR>
+2016年9月14日の本日が公示日となりましたので、30日後の2016年10月13日までにお手元へ届く事が最終期限となります。<BR>
+これに伴いまして、当サイトでの注文受付を入金日ベースで2016年9月30日（日本時間19:00）を締切とさせて頂きます。<BR>
+また、提携の発送元も追加仕入を行いませんので、売切れ次第で順次、終了とさせて頂きます。<BR>
+<BR>
+<a href="http://search.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495160131&Mode=2">パブリックコメント：結果公示案件詳細はコチラ</a><BR>
+輸入禁止の成分につきましては、麻薬と同じ捉え方になりますので、2016年10月13日までにお手元に届く事が条件となります。<BR>
+ですので、郵便局留めや不在での持ち帰りがあった場合につきましても、早めの受取りをお願い致します。<BR>
+当サイトでは、お客様都合で受取りが遅延した際の責任を一切負えませんので、ご了承下さい。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-05-19】</div>
+					<div class="info2">伊勢志摩サミットの交通規制につきまして</div>
+					<div class="info3">5月26日から27日にかけて開催される「伊勢志摩サミット」の為、5月21日より三重県・愛知県の一部エリアで大規模な交通規制が行われます。<BR>
+その影響で、荷物のお届けにも影響が出る可能性が御座いますので、ご理解のほど宜しくお願い申し上げます。<BR>
+下記に日本郵便とヤマト運輸の通知をリンク致します。<BR>
+<BR>
+日本郵便<BR>
+http://www.post.japanpost.jp/notification/productinformation/2016/0518_03.html<BR>
+ヤマト運輸<BR>
+http://www.kuronekoyamato.co.jp/info/info_160516.html</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-04-18】</div>
+					<div class="info2">熊本地震による発送停止につきまして</div>
+					<div class="info3">この度の熊本地震により被災された地域の方々に心よりお見舞い申し上げます。<BR>
+4/14（木）～15（金）未明に発生いたしました熊本県での地震に伴う影響により、九州全域で商品の配送に遅れが生じております。<BR>
+<span class="colorRed">また、熊本県全域につきまして、発送停止となります。</span><BR>
+現状で発送を行ってしまいますと、郵便局での保管期限内にお客様のお手元へ商品をお届け出来るか？不確実なためご理解頂ければ幸いです。<BR>
+流通網の回復が確認されましたら、順次、発送を開始させて頂きます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2016-01-25】</div>
+					<div class="info2">バレンタイン＆ホワイトデーのプレゼントキャンペーン</div>
+					<div class="info3">バレンタインデー＆ホワイトデーのキャンペーンを行います！！<BR>
+ED治療薬や早漏防止薬などの性に関係する商品をお買求めのお客様をサイト側でランダムに注文番号で<span class="colorRed">毎日抽選</span>させて頂き、1日20本限定で愛のホルモン「オキシトシン」配合の媚薬「アドバンテージDX（2ml）」「チョコレートラブ（2ml）」「オキシトシン・ラブ（2ml）」のいずれか1本をプレゼントさせて頂きます。<BR>
+【キャンペーン期間】<BR>
+2016年1月25日（月）～ 3月31日（木）まで<BR>
+※商品がなくなり次第終了となります。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-12-24】</div>
+					<div class="info2">ヤマト便の発送につきまして</div>
+					<div class="info3">ヤマト便指定の商品につきましては、本日24日が年内の最終日となります。対象商品であるカーボブロッカー等は、年明け1月5日からとなります。ご迷惑をお掛けしますが宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-12-10】</div>
+					<div class="info2">年末年始の発送につきまして</div>
+					<div class="info3">年末年始の発送は、1月1日～1月3日をお休みとさせて頂きます。 その他は、通常通り発送させて頂きますが、交通渋滞や税関の混雑が予想されますので、平時よりも遅延が予想されます。 お届け日時に余裕を持ったお買い物をお願い頂ければ幸いです。 尚、電話注文につきましては、12/31～1/4までお休みさせて頂きます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-10-29】</div>
+					<div class="info2">11/11～11/13　インド発送の商品につきまして</div>
+					<div class="info3">インド発送の商品になりますが、正月休暇のため税関並びに郵便局がお休みになります。 期間は、11/11～11/13の3日間です。発送は出来ませんので、ご了承下さいませ。 インド国民の8割は、ヒンドゥー教のため季節の変わり目である10月末から2週間は、日本でいう正月となります。インドでは、ディワリ（光の祭典）というようです。 大変ご迷惑をお掛けしますが、休みの期間中にご注文頂いた商品は、順次14日から発送して参ります。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-10-26】</div>
+					<div class="info2">電話注文の受付を開始致します。</div>
+					<div class="info3">ご要望の多かった電話注文の受付を開始致します。<BR>
+<span class="colorRed">受付時間：11:00～18:00（日本時間）</span><BR>
+外部機関による外注受付となりますので、受付以外の問合せは出来ませんので、ご了承ください。<BR>
+お荷物の追跡状況やご注文以外の問合せにつきましては、下記までメールでお問合せ下さい。<BR>
+info@philipstraub.com<BR>
+今後とも宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-05-27】</div>
+					<div class="info2">ジェネリックキャンペーンを再開致します。</div>
+					<div class="info3">3月中旬に行ったジェネリックお試しキャンペーンが、大好評だったので継続致します!! 対象の商品は、先発薬のバイアグラ・シアリス・レビトラを購入したお客様です。 もれなくジェネリックを1個プレゼントさせて頂きますので、飲み比べてみて下さい。※数に限りが御座います。 どのジェネリック薬も先発薬と同様の成分で製造されていますので、効果は同じで価格が安価です！！ 効果を実感されれば、ジェネリック薬の魅力を分かって頂けると思います。 薬の値段を構成する価格の多くは、実は特許料なのです！ <BR>
+<a href="https://www.philipstraub.com/generic_1.php">https://www.philipstraub.com/generic_1.php</a><BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-04-01】</div>
+					<div class="info2">銀行振込でポイント2倍キャンペーン！</div>
+					<div class="info3">ライフパートナーで、お買い物頂く際の支払方法は、銀行振込とクレジットカード払いが御座います。<BR>
+お買い物ポイントは、銀行振込でのお支払いがお得です！！<BR>
+銀行振込：ご購入代金の6％<BR>
+クレジット支払い：ご購入代金の3％</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-03-15】</div>
+					<div class="info2">クレジット決済の提携先が変更になりました</div>
+					<div class="info3">クレジット決済の提携先が変更となり、ご利用頂けるカードメーカーが増加しました！<BR>
+また提携会社の変更に伴い、1クリック決済が初期化されております。<BR>
+つきましては、今迄1クリック決済をご利用頂いておりましたお客様には、ご面倒をお掛けしますが、ご購入時には改めてカード情報のご入力をお願い致します。<BR>
+ご面倒をお掛けして、大変申し訳御座いません。<BR>
+<span class="colorRed bold">※お客様のクレジット情報を弊社では保持しておりませんので、ご理解下さいませ。</span></div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-03-05】</div>
+					<div class="info2">ジェネリックキャンペーンのお知らせ</div>
+					<div class="info3">3月7日～3月17日までの入金者様に対しまして、ジェネリックお試しキャンペーンを行います。<BR>
+対象の商品は、先発薬のバイアグラ・シアリス・レビトラを購入したお客様です。<BR>
+<BR>
+・バイアグラ購入者には、カマグラゴールド100mg×4錠を1箱サービスします。<BR>
+<a href="https://www.philipstraub.com/dt.php?pid=870">https://www.philipstraub.com/dt.php?pid=870</a><BR>
+<BR>
+・シアリス購入者には、タダシップ20mg×4錠を1箱サービスします。<BR>
+<a href="https://www.philipstraub.com/dt.php?pid=865">https://www.philipstraub.com/dt.php?pid=865</a><BR>
+<BR>
+・レビトラ購入者には、ブリトラ20mg×10錠を1シートサービスします。<BR>
+<a href="https://www.philipstraub.com/dt.php?pid=884">https://www.philipstraub.com/dt.php?pid=884</a><BR>
+<BR>
+どのジェネリック薬も先発薬と同様の成分で製造されていますので、効果は同じで価格が安価です！！<BR>
+効果を実感されれば、ジェネリック薬の魅力を分かって頂けると思います。<BR>
+<span class="colorRed bold">薬の値段を構成する価格の多くは、実は特許料なのです！</span><BR>
+<a href="https://www.philipstraub.com/generic_1.php">https://www.philipstraub.com/generic_1.php</a><BR>
+</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2015-01-19】</div>
+					<div class="info2">ご要望の多かったFAX注文を開始しました！</div>
+					<div class="info3">左下段のバナーをクリック頂き、申込み用紙をプリントアウトして下さい。<BR>
+記載例通りにお届け先などの個人情報をご記入頂き、商品名や金額も合わせてご記入下さい。<BR>
+商品の記入が終わりましたら、最後にご自身で合計金額を計算頂き、指定の振込先にお振込み下さい。同時にFAX送信もお願いします。<BR>
+FAXとご入金の確認が取れましたら、直ちに発送手続きに入らせて頂きます。<BR>
+2日後位を目安に郵便追跡番号が発行されますので、ライフパートナーよりFAXにてその旨をご連絡差し上げます。<BR>
+郵便追跡番号をご連絡した5日後位が商品到着の目安になります。<BR>
+それでは今後とも宜しくお願い致します。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2014-12-22】</div>
+					<div class="info2">年末年始の発送につきまして</div>
+					<div class="info3">年末年始の発送は、元旦のみお休みとさせて頂きます。 <BR>
+その他は、通常通り発送させて頂きますが、交通渋滞や税関の混雑が予想されますので、平時よりも多少の遅延が予想されます。 <BR>
+お届け日時に余裕を持ったお買い物をお願い出来れば幸いです。 <BR>
+尚、電話注文につきましては、12/27～1/4までお休みさせて頂きます。</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2014-10-17】</div>
+					<div class="info2">10/23～10/26　インド発送の商品につきまして</div>
+					<div class="info3">インド発送の商品になりますが、正月休暇のため税関並びに郵便局がお休みになります。<BR>
+期間は、10/23～10/26の4日間です。発送は出来ませんので、ご了承下さいませ。<BR>
+インド国民の8割は、ヒンドゥー教のため季節の変わり目である10月末から2週間は、日本でいう正月となります。インドでは、ディワリ（光の祭典）というようです。<BR>
+大変ご迷惑をお掛けしますが、休みの期間中にご注文頂いた商品は、順次27日から発送して参ります。同期間中にインド発送でご迷惑をお掛けしてしまったお客様には、むくみ取りで人気のラシックスを15錠プレゼント致します。<BR>
+https://www.philipstraub.com/dt.php?pid=1187</div>
+				</div>
+
+				<div class="news">
+					<div class="info1">【2014-07-02】</div>
+					<div class="info2">クレジットカード支払いでポイント2倍!!</div>
+					<div class="info3">ライフパートナーで、お買い物頂く際の支払方法は、銀行振込とクレジットカード払いが御座います。<BR>
+お買い物ポイントは、クレジットカード払いがお得です！！<BR>
+銀行振込：ご購入代金の3％<BR>
+クレジットカード支払い：ご購入代金の6％<BR>
+また2回目以降のご購入では、ワンクリック決済が出来ますので、お手間も掛けなく簡単にお買い物が出来ます。</div>
+				</div>
+
+				</div>
+			</div>
+
+			<a href="/kusuri.php"><img src="/img/medical_mame.png" alt="メディカル豆知識"></a>
+
+			<a href="/blog.php"><img src="/img/blog.png" alt="スタッフブログ"></a>
+
+			
+
+			
+
+			
+
+		</div><!-- rightここまで -->
+	</div><!-- contentsここまで -->
+
+	
+	<div id="return"><a href="#header" class="scroll"><img src="/img/return.png" alt="TOPに戻る"></a></div>
+	<footer>
+		<div id="footerTitle">ライフパートナーでのお買い物について</div>
+
+		<ul id="footerBox">
+			<li>
+				<div class="title">決済方法</div>
+				<div class="body"><img src="/img/footer_box1.jpg" alt="安心のセキュリティー"></div>
+			</li>
+			<li>
+				<div class="title">送料</div>
+				<div class="body"><img src="/img/footer_box2.jpg" alt="1万円以上お買上げで送料無料"></div>
+			</li>
+			<li>
+				<div class="title">梱包・外箱</div>
+				<div class="body"><img src="/img/footer_box3.jpg" alt="プライバシー重視の梱包"></div>
+			</li>
+			<li>
+				<div class="title">信用第一</div>
+				<div class="body"><img src="/img/footer_box4.jpg" alt="メーカー純正品のみ販売"></div>
+			</li>
+			<li>
+				<div class="title">個人輸入・通関手続き</div>
+				<div class="body"><img src="/img/footer_box5.jpg" alt="万全のアフターサポート"></div>
+			</li>
+		</ul>
+
+		<nav id="bottomMenu">
+			<ul>
+				<li><a href="/shopping_guide.php">初めての方へ</a></li>
+				<li><a href="/hajimete_1.php">海外医薬品とは？</a></li>
+				<li><a href="/hajimete_2.php">関税について</a></li>
+				<li><a href="/hajimete_3.php">処方せん不要</a></li>
+				<li><a href="/hajimete_4.php">海外医薬品のメリット</a></li>
+				<li><a href="/hajimete_5.php">配送について</a></li>
+			</ul>
+			<ul>
+				<li><a href="/howto.php">買い物手順</a></li>
+				<li><a href="/about.php">お支払方法</a></li>
+				<li><a href="/import.php">個人輸入とは？</a></li>
+				<li><a href="/kojin_1.php">輸入禁止の薬物</a></li>
+				<li><a href="/kojin_2.php">薬事法とは</a></li>
+			</ul>
+			<ul>
+				<li><a href="/generic.php">ジェネリックとは？</a></li>
+				<li><a href="/generic_1.php">ジェネリックは安価</a></li>
+				<li><a href="/generic_2.php">ジェネリックは安全</a></li>
+				<li><a href="/generic_3.php">ジェネリックを活用</a></li>
+				<li><a href="/generic_4.php">インドは世界一</a></li>
+			</ul>
+			<ul>
+				<li><a href="/kusuri.php#hikaku">薬の比較</a></li>
+				<li><a href="/ed.php">ED治療薬の比較</a></li>
+				<li><a href="/hinin.php">避妊ピルの比較</a></li>
+				<li><a href="/diet.php">ダイエット薬の比較</a></li>
+				<li><a href="/ikumou.php">育毛薬の比較</a></li>
+			</ul>
+			<ul>
+				<li><a href="/">TOPページ</a></li>
+				<li><a href="/privacy.php">個人情報の取り扱いについて</a></li>
+				<li><a href="/company.php">特定商取引法表記</a></li>
+				<li><a href="/kiyaku.php">利用規約</a></li>
+			</ul>
+		</nav>
+
+		<nav id="knowledgeMenu">
+			<ul>
+				<li class="parent"><a href="/kusuri.php">メディカル豆知識</a></li>
+				<li><a href="/knowledge_ed_1.php">勃起不全（ED）</a></li>
+				<li><a href="/knowledge_pe_1.php">早漏</li>
+				<li><a href="/knowledge_enlargement_1.php">短小（ペニス増大）</a></li>
+				<li><a href="/knowledge_thinninghair_1.php">薄毛（AGA）</a></li>
+				<li><a href="/knowledge_diet_1.php">肥満（ダイエット）</a></li>
+				<li><a href="/knowledge_fsd_1.php">女性性機能障害（不感症）</a></li>
+				<li><a href="/knowledge_aphrodisiac_1.php">媚薬</a></li>
+				<li><a href="/knowledge_asthma_1.php">喘息</a></li>
+				<li><a href="/knowledge_contraception_1.php">避妊（ピル）</a></li>
+				<li><a href="/knowledge_infertility_1.php">不妊症</a></li>
+				<li><a href="/knowledge_eyelash_1.php">まつげ増毛</a></li>
+				<li><a href="/knowledge_std_1.php">性病</a></li>
+				<li><a href="/knowledge_mentalillness_1.php">精神病</a></li>
+				<li><a href="/knowledge_migraine_1.php">偏頭痛</a></li>
+				<li><a href="/knowledge_insomnia_1.php">不眠症</a></li>
+				<li><a href="/knowledge_gout_1.php">痛風</a></li>
+				<li><a href="/knowledge_acne_1.php">尋常性ざ瘡（ニキビ）</a></li>
+				<li><a href="/knowledge_nosmoking_1.php">禁煙</a></li>
+				<li><a href="/knowledge_himalaya_1.php">ヒマラヤハーブ</a></li>
+				<li><a href="/knowledge_ed_2.php">シルデナフィル</a></li>
+				<li><a href="/knowledge_ed_3.php">バルデナフィル</a></li>
+				<li><a href="/knowledge_ed_4.php">タダラフィル</a></li>
+				<li><a href="/knowledge_ed_5.php">アバナフィル</a></li>
+			</ul>
+		</nav>
+
+		<div id="copyright">
+			ED治療薬や育毛剤、アフターピル、その他様々な海外医薬品の個人輸入を代行で承ります。<br>
+			世界各国で利用されている各種医薬品やサプリメントの個人輸入なら、正規品保証のライフパートナーにお任せ下さい。<br>
+			<br>
+			Copyright &copy; 2008 医薬品の個人輸入代行ライフパートナー All Rights Reserved.<br>
+		</div>
+		<span id="newmail" class="hide">%%NEWMAIL_STATUS%%</span>
+	</footer>
+
+<!--
+	<div class="modal" id="modal_message">
+		<img src="/img/modal_close.png" alt="×" class="modalClose">
+		<div class="modalTitle">お知らせが届いています。</div>
+		<div class="modalBody">
+			<span class="bold">%%TAG_ONAMAE%%</span>&nbsp;様に重要なお知らせが届いています。<br>
+			こちらからご確認下さい。<br>
+			<a href="/maillog.php" class="grayBtn">お知らせを確認する</a>
+			<div class="modalNotice">サイトからのお知らせは、画面一番上の「お知らせ」ボタンから確認することができます。追跡番号のご連絡など重要なお知らせもありますので、必ずご確認下さい。</div>
+		</div>
+	</div>
+-->
+
+</div>
+
+<div class="modal" id="modal_order_error" style="text-align:left;">
+	<img src="/img/modal_close.png" alt="×" class="modalClose">
+	<div class="modalTitle">エラーが発生しました。</div>
+	<div class="modalBody">
+		エラーが発生しました。<br>
+		<br>
+		<span class="bold">エラー：59063</span><br>
+		<br>
+		誠に恐れ入りますが、お客様は当サイトをご利用頂くことが出来ません。<br>
+		詳しくは「お問い合わせ」よりお問い合わせ下さい。<br>
+		<a href="/contact.php" class="grayBtn">お問い合わせ</a>
+	</div>
+</div>
+
+</body>
+</html>
